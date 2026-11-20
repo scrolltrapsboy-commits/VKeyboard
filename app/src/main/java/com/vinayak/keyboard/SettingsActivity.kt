@@ -89,13 +89,32 @@ class SettingsActivity : Activity() {
         super.onCreate(savedInstanceState)
         prefs = Prefs(this)
         d = resources.displayMetrics.density
+        val uiTheme = Theme.resolve(this, prefs)
         col = LinearLayout(this).apply {
             orientation = LinearLayout.VERTICAL
-            setPadding(px(18), px(36), px(18), px(28))
+            setPadding(px(20), px(28), px(20), px(36))
+            setBackgroundColor(if (uiTheme.dark) 0xFF10141C.toInt() else 0xFFF4F6FA.toInt())
         }
-        setContentView(ScrollView(this).apply { addView(col) })
+        setContentView(ScrollView(this).apply {
+            isFillViewport = true
+            setBackgroundColor(if (uiTheme.dark) 0xFF10141C.toInt() else 0xFFF4F6FA.toInt())
+            clipToPadding = false
+            addView(col)
+        })
 
-        col.addView(TextView(this).apply { text = "V Keyboard"; textSize = 28f })
+        col.addView(TextView(this).apply {
+            text = "V Keyboard"
+            textSize = 30f
+            typeface = android.graphics.Typeface.create("sans-serif", android.graphics.Typeface.BOLD)
+            setTextColor(if (uiTheme.dark) 0xFFF5F7FC.toInt() else 0xFF172033.toInt())
+            setPadding(0, px(4), 0, px(2))
+        })
+        col.addView(TextView(this).apply {
+            text = "Your keyboard, your style."
+            textSize = 14f
+            setTextColor(if (uiTheme.dark) 0xFFADB8C9.toInt() else 0xFF68758A.toInt())
+            setPadding(0, 0, 0, px(18))
+        })
         status = TextView(this).apply { textSize = 14f; setPadding(0, px(6), 0, px(10)) }
         col.addView(status)
         val imm = getSystemService(INPUT_METHOD_SERVICE) as InputMethodManager
@@ -215,10 +234,14 @@ class SettingsActivity : Activity() {
 
     // ---------------------------------------------------------------- helpers
     private fun section(title: String) {
+        val dark = Theme.resolve(this, prefs).dark
         col.addView(TextView(this).apply {
-            text = title.uppercase(); textSize = 12f
-            setPadding(0, px(22), 0, px(6))
-            setTextColor(0xFF4272C4.toInt())
+            text = title.uppercase()
+            textSize = 11f
+            letterSpacing = 0.10f
+            typeface = android.graphics.Typeface.create("sans-serif-medium", android.graphics.Typeface.NORMAL)
+            setPadding(px(2), px(26), 0, px(10))
+            setTextColor(if (dark) 0xFF91BFFF.toInt() else 0xFF3867D6.toInt())
         })
     }
 
