@@ -74,61 +74,104 @@ class ClipboardPanel(
     ctx: Context, private val theme: Theme, private val prefs: Prefs,
     private val u: Float, private val availW: Int, private val host: PanelHost
 ) : LinearLayout(ctx) {
-    private val grid = GridLayout(ctx).apply { columnCount = 3 }
+    // Full-width cards keep copied paragraphs readable instead of squeezing them
+    // into tiny square tiles.
+    private val grid = GridLayout(ctx).apply { columnCount = 1; useDefaultMargins = false }
     private val selected = HashSet<String>()
     private val pinIcon = IconView(ctx, "pin", theme.text, u)
     private val trashIcon = IconView(ctx, "trash", theme.text, u)
-    private val empty = mkText(ctx, "Clipboard is empty", 46f * u, theme.dim)
+    private val empty = mkText(ctx, "Nothing copied yet", 48f * u, theme.dim).apply {
+        gravity = Gravity.CENTER
+    }
+    private val count = mkText(ctx, "Your copied text appears here", 34f * u, theme.dim).apply {
+        gravity = Gravity.CENTER_VERTICAL
+        setPadding((34f * u).toInt(), 0, (24f * u).toInt(), 0)
+    }
 
     init {
         orientation = VERTICAL
         isClickable = true
         addView(header(ctx, theme, u, "Clipboard", host, listOf(pinIcon to 132, trashIcon to 132)),
             lp(ViewGroup.LayoutParams.MATCH_PARENT, (140f * u).toInt()))
+        addView(count, lp(ViewGroup.LayoutParams.MATCH_PARENT, (76f * u).toInt()))
         val frame = FrameLayout(ctx)
-        val sv = ScrollView(ctx)
-        grid.setPadding((9f * u).toInt(), 0, (9f * u).toInt(), (20f * u).toInt())
-        sv.addView(grid)
+        val sv = ScrollView(ctx).apply { isFillViewport = true; clipToPadding = false }
+        grid.setPadding((22f * u).toInt(), (8f * u).toInt(), (22f * u).toInt(), (28f * u).toInt())
+        sv.addView(grid, ScrollView.LayoutParams(-1, -2))
         frame.addView(sv, FrameLayout.LayoutParams(-1, -1))
-        frame.addView(empty, FrameLayout.LayoutParams(-2, -2, Gravity.CENTER))
+        frame.addView(empty, FrameLayout.LayoutParams(-1, -1))
         addView(frame, lp(ViewGroup.LayoutParams.MATCH_PARENT, 0, 1f))
         pinIcon.setOnClickListener {
-            selected.forEach { prefs.togglePin(it) }
-            selected.clear(); refresh()
+            selected.toList().forEach { prefs.togglePin(it) }
+            selected.clear()
+            refresh()
         }
         trashIcon.setOnClickListener {
-            if (selected.isEmpty()) prefs.clearUnpinned() else selected.forEach { prefs.removeClip(it) }
-            selected.clear(); refresh()
+            if (selected.isEmpty()) prefs.clearUnpinned()
+            else selected.toList().forEach { prefs.removeClip(it) }
+            selected.clear()
+            refresh()
         }
     }
 
     fun refresh() {
         grid.removeAllViews()
-        selected.retainAll(prefs.clips().toSet())
         val clips = prefs.clips()
+        selected.retainAll(clips.toSet())
         empty.visibility = if (clips.isEmpty()) View.VISIBLE else View.GONE
-        val cw = ((availW - 18f * u) / 3f - 26f * u).toInt()
-        val m = (13f * u).toInt()
+        count.text = when {
+            selected.isNotEmpty() -> "${selected.size} selected  •  Tap pin or delete"
+            clips.isEmpty() -> "Private clipboard history"
+            else -> "${clips.size} saved  •  Tap to paste  •  Hold to select"
+        }
+        val cardW = (availW - 52f * u).toInt().coerceAtLeast(1)
+        val margin = (9f * u).toInt()
         for (t in clips) {
             val sel = t in selected
             val pinned = prefs.isPinned(t)
-            val card = mkText(context, t, 48f * u, theme.text).apply {
-                maxLines = 5
-                ellipsize = TextUtils.TruncateAt.END
-                setLineSpacing(0f, 1.12f)
-                setPadding((30f * u).toInt(), (24f * u).toInt(), (18f * u).toInt(), (16f * u).toInt())
-                background = roundBg(if (sel) withAlpha(theme.accent, 0x33) else 0, 40f * u,
-                    if (pinned || sel) theme.accent else theme.dim, 2.6f * u)
+            val card = LinearLayout(context).apply {
+                orientation = VERTICAL
+                isClickable = true
+                isFocusable = true
+                setPadding((30f * u).toInt(), (24f * u).toInt(), (30f * u).toInt(), (24f * u).toInt())
+                background = roundBg(
+                    if (sel) withAlpha(theme.accent, 0x30) else theme.keyFill,
+                    30f * u,
+                    if (pinned || sel) theme.accent else withAlpha(theme.dim, 0x55),
+                    if (pinned || sel) 3f * u else 1.5f * u
+                )
             }
+            val meta = mkText(context,
+                if (pinned) "PINNED  •  TAP TO PASTE" else "COPIED TEXT  •  TAP TO PASTE",
+                27f * u, if (pinned || sel) theme.accent else theme.dim
+            )
+            card.addView(meta, lp(-1, (42f * u).toInt()))
+            val body = mkText(context, t, 43f * u, theme.text).apply {
+                maxLines = Int.MAX_VALUE
+                ellipsize = null
+                setLineSpacing(2f * u, 1.12f)
+                gravity = Gravity.CENTER_VERTICAL
+            }
+            card.addView(body, lp(-1, -2).apply { topMargin = (8f * u).toInt() })
             card.setOnClickListener {
-                if (selected.isNotEmpty()) { if (!selected.remove(t)) selected.add(t); refresh() }
-                else { host.commitText(t); host.backToKeys() }
+                if (selected.isNotEmpty()) {
+                    if (!selected.remove(t)) selected.add(t)
+                    refresh()
+                } else {
+                    host.commitText(t)
+                    host.backToKeys()
+                }
             }
-            card.setOnLongClickListener { if (!selected.remove(t)) selected.add(t); refresh(); true }
-            val glp = GridLayout.LayoutParams()
-            glp.width = cw
-            glp.height = cw
-            glp.setMargins(m, m, m, m)
+            card.setOnLongClickListener {
+                if (!selected.remove(t)) selected.add(t)
+                refresh()
+                true
+            }
+            val glp = GridLayout.LayoutParams().apply {
+                width = cardW
+                height = ViewGroup.LayoutParams.WRAP_CONTENT
+                setMargins(0, margin, 0, margin)
+            }
             grid.addView(card, glp)
         }
         val on = selected.isNotEmpty()
