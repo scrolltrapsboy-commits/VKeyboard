@@ -89,7 +89,7 @@ class Theme(
     val keyFill: Int get() = if (bgImage != null) (key and 0x00FFFFFF) or (0xB8 shl 24) else key
 
     companion object {
-        val NAMES = listOf("System", "Light", "Dark", "Black", "Ocean", "Rose", "Forest", "Lavender", "Sunset", "Custom")
+        val NAMES = listOf("System", "Light", "Dark", "Black", "Ocean", "Rose", "Forest", "Lavender", "Sunset", "Custom", "Minimal Light", "Glassy", "AMOLED", "Pastel Gradient")
 
         private fun mix(a: Int, b: Int, f: Float): Int {
             fun ch(x: Int, y: Int) = (x + (y - x) * f).toInt().coerceIn(0, 255)
@@ -110,6 +110,10 @@ class Theme(
             6 -> Theme(0xFF1E2B24.toInt(), 0xFF2B3D33.toInt(), 0xFF3E5648.toInt(), 0xFFE6F2EA.toInt(), 0xFF8FB09C.toInt(), 0xFF6FD39A.toInt(), 0xFF33493C.toInt(), true)
             7 -> Theme(0xFFE8E1F5.toInt(), 0xFFF6F2FD.toInt(), 0xFFCFC2EA.toInt(), 0xFF2A1B4D.toInt(), 0xFF7F6FA8.toInt(), 0xFF6A3FD6.toInt(), 0xFFFFFFFF.toInt(), false)
             8 -> Theme(0xFF2D1B2E.toInt(), 0xFF47304A.toInt(), 0xFF62456A.toInt(), 0xFFFFE9D6.toInt(), 0xFFC49A8A.toInt(), 0xFFFF8A4C.toInt(), 0xFF55385A.toInt(), true)
+            10 -> Theme(0xFFF8F9FC.toInt(), 0xFFFFFFFF.toInt(), 0xFFE9EDF4.toInt(), 0xFF202633.toInt(), 0xFF788397.toInt(), 0xFF3867D6.toInt(), 0xFFFFFFFF.toInt(), false)
+            11 -> Theme(0xFF18202D.toInt(), 0xBFFFFFFF.toInt(), 0xD9FFFFFF.toInt(), 0xFFFFFFFF.toInt(), 0xFFE0E8F5.toInt(), 0xFF8ED8FF.toInt(), 0xE62B394D.toInt(), true)
+            12 -> Theme(0xFF000000.toInt(), 0xFF111111.toInt(), 0xFF292929.toInt(), 0xFFFFFFFF.toInt(), 0xFF999999.toInt(), 0xFF00D7A0.toInt(), 0xFF171717.toInt(), true)
+            13 -> Theme(0xFFF5EFFF.toInt(), 0xFFFFF8FE.toInt(), 0xFFF1DFFF.toInt(), 0xFF49375D.toInt(), 0xFF9A82AD.toInt(), 0xFFB46BCE.toInt(), 0xFFFFF8FE.toInt(), false)
             9 -> {
                 val bg = p?.int("c_bg", 0xFFF4F0F1.toInt()) ?: 0xFFF4F0F1.toInt()
                 val key = p?.int("c_key", 0xFFF7F5F6.toInt()) ?: 0xFFF7F5F6.toInt()
