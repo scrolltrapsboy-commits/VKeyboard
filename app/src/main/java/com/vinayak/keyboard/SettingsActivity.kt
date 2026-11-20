@@ -250,10 +250,14 @@ class SettingsActivity : Activity() {
 
     private fun refreshPreview() {
         val t = Theme.resolve(this, prefs)
-        previewBox.background = ThemeBgDrawable(t)
-        previewBox.removeAllViews()
-        previewBox.addView(KeyboardView(this, prefs, t, noop),
-            FrameLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT))
+        previewBox.animate().cancel()
+        previewBox.animate().alpha(0.72f).setDuration(90).withEndAction {
+            previewBox.background = ThemeBgDrawable(t)
+            previewBox.removeAllViews()
+            previewBox.addView(KeyboardView(this, prefs, t, noop),
+                FrameLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT))
+            previewBox.animate().alpha(1f).setDuration(180).start()
+        }.start()
     }
 
     private fun buildThemeGrid() {
