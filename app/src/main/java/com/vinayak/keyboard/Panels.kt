@@ -362,7 +362,7 @@ class EmojiPanel(
             v.background = roundBg(if (on) withAlpha(theme.accent, 0x33) else 0, 40f * u, if (on) theme.accent else theme.dim, 2.4f * u)
         }
         gifScroll.scrollTo(0, 0)
-        val key = prefs.str("giphy", "").trim()
+        val key = prefs.str("giphy", "").trim().ifEmpty { BuildConfig.GIPHY_API_KEY.trim() }
         if (key.isEmpty()) {
             showMessage("GIFs and stickers need a free Giphy API key.\nTap here to open Settings and add it.") { host.openSettings() }
             return
