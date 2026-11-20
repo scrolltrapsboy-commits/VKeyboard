@@ -18,6 +18,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.view.inputmethod.InputMethodManager
 import android.widget.Button
+import android.widget.ArrayAdapter
+import android.widget.Spinner
 import android.widget.EditText
 import android.widget.FrameLayout
 import android.widget.GridLayout
@@ -38,9 +40,13 @@ class VoiceActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         try {
+            val prefs = Prefs(this)
+            val language = prefs.str("voice_lang", "en-IN")
             val i = Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH)
                 .putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
-                .putExtra(RecognizerIntent.EXTRA_LANGUAGE, "en-IN")
+                .putExtra(RecognizerIntent.EXTRA_LANGUAGE, language)
+                .putExtra(RecognizerIntent.EXTRA_LANGUAGE_PREFERENCE, language)
+                .putExtra(RecognizerIntent.EXTRA_PROMPT, "Speak to type")
             @Suppress("DEPRECATION")
             startActivityForResult(i, 1)
         } catch (e: ActivityNotFoundException) {
@@ -143,6 +149,34 @@ class SettingsActivity : Activity() {
             }
         })
         seek("Photo dimming", "bgdim", 0, 80, 35, "%")
+
+        // ---- voice typing
+        section("Voice typing")
+        col.addView(TextView(this).apply {
+            text = "Choose the language used when you tap the microphone on the keyboard."
+            textSize = 13f
+        })
+        val voiceLanguages = listOf(
+            "English (India)" to "en-IN",
+            "English (United States)" to "en-US",
+            "Hindi" to "hi-IN",
+            "Malayalam" to "ml-IN",
+            "Kannada" to "kn-IN",
+            "Tamil" to "ta-IN"
+        )
+        val voiceSpinner = Spinner(this)
+        voiceSpinner.adapter = ArrayAdapter(
+            this, android.R.layout.simple_spinner_dropdown_item,
+            voiceLanguages.map { it.first }
+        )
+        voiceSpinner.setSelection(voiceLanguages.indexOfFirst { it.second == prefs.str("voice_lang", "en-IN") }.coerceAtLeast(0))
+        voiceSpinner.onItemSelectedListener = object : android.widget.AdapterView.OnItemSelectedListener {
+            override fun onNothingSelected(parent: android.widget.AdapterView<*>?) {}
+            override fun onItemSelected(parent: android.widget.AdapterView<*>?, view: View?, position: Int, id: Long) {
+                prefs.put("voice_lang", voiceLanguages[position].second)
+            }
+        }
+        col.addView(voiceSpinner, LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, px(52)))
 
         // ---- typing
         section("Typing")
