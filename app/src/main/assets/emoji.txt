@@ -1,0 +1,1870 @@
+S	😀	0	6.1	smile happy grinning grinning face
+S	😃	0	6.0	happy joy haha smiley grinning face with big eyes
+S	😄	0	6.0	happy joy laugh pleased smile grinning face with smiling eyes
+S	😁	0	6.0	grin beaming face with smiling eyes
+S	😆	0	6.0	happy haha laughing satisfied grinning squinting face
+S	😅	0	6.0	hot sweat_smile grinning face with sweat
+S	🤣	0	9.0	lol laughing rofl rolling on the floor laughing
+S	😂	0	6.0	tears joy face with tears of joy
+S	🙂	0	7.0	slightly_smiling_face slightly smiling face
+S	🙃	0	8.0	upside_down_face upside-down face
+S	🫠	0	14.0	sarcasm dread melting_face melting face
+S	😉	0	6.0	flirt wink winking face
+S	😊	0	6.0	proud blush smiling face with smiling eyes
+S	😇	0	6.0	angel innocent smiling face with halo
+S	🥰	0	11.0	love smiling_face_with_three_hearts smiling face with hearts
+S	😍	0	6.0	love crush heart_eyes smiling face with heart-eyes
+S	🤩	0	11.0	eyes star_struck star-struck
+S	😘	0	6.0	flirt kissing_heart face blowing a kiss
+S	😗	0	6.1	kissing kissing face
+S	☺️	0		blush pleased relaxed smiling face
+S	😚	0	6.0	kissing_closed_eyes kissing face with closed eyes
+S	😙	0	6.1	kissing_smiling_eyes kissing face with smiling eyes
+S	🥲	0	13.0	smiling_face_with_tear smiling face with tear
+S	😋	0	6.0	tongue lick yum face savoring food
+S	😛	0	6.1	stuck_out_tongue face with tongue
+S	😜	0	6.0	prank silly stuck_out_tongue_winking_eye winking face with tongue
+S	🤪	0	11.0	goofy wacky zany_face zany face
+S	😝	0	6.0	prank stuck_out_tongue_closed_eyes squinting face with tongue
+S	🤑	0	8.0	rich money_mouth_face money-mouth face
+S	🤗	0	8.0	hugs smiling face with open hands
+S	🤭	0	11.0	quiet whoops hand_over_mouth face with hand over mouth
+S	🫢	0	14.0	gasp shock face_with_open_eyes_and_hand_over_mouth face with open eyes and hand over mouth
+S	🫣	0	14.0	face_with_peeking_eye face with peeking eye
+S	🤫	0	11.0	silence quiet shushing_face shushing face
+S	🤔	0	8.0	thinking thinking face
+S	🫡	0	14.0	respect saluting_face saluting face
+S	🤐	0	8.0	silence hush zipper_mouth_face zipper-mouth face
+S	🤨	0	11.0	suspicious raised_eyebrow face with raised eyebrow
+S	😐	0	6.0	meh neutral_face neutral face
+S	😑	0	6.1	expressionless expressionless face
+S	😶	0	6.0	mute silence no_mouth face without mouth
+S	🫥	0	14.0	invisible dotted_line_face dotted line face
+S	😶‍🌫️	0	13.1	face_in_clouds face in clouds
+S	😏	0	6.0	smug smirk smirking face
+S	😒	0	6.0	meh unamused unamused face
+S	🙄	0	8.0	roll_eyes face with rolling eyes
+S	😬	0	6.1	grimacing grimacing face
+S	😮‍💨	0	13.1	face_exhaling face exhaling
+S	🤥	0	9.0	liar lying_face lying face
+S	🫨	0	15.0	shock shaking_face shaking face
+S	😌	0	6.0	whew relieved relieved face
+S	😔	0	6.0	pensive pensive face
+S	😪	0	6.0	tired sleepy sleepy face
+S	🤤	0	9.0	drooling_face drooling face
+S	😴	0	6.1	zzz sleeping sleeping face
+S	😷	0	6.0	sick ill mask face with medical mask
+S	🤒	0	8.0	sick face_with_thermometer face with thermometer
+S	🤕	0	8.0	hurt face_with_head_bandage face with head-bandage
+S	🤢	0	9.0	sick barf disgusted nauseated_face nauseated face
+S	🤮	0	11.0	barf sick vomiting_face face vomiting
+S	🤧	0	9.0	achoo sick sneezing_face sneezing face
+S	🥵	0	11.0	heat sweating hot_face hot face
+S	🥶	0	11.0	freezing ice cold_face cold face
+S	🥴	0	11.0	groggy woozy_face woozy face
+S	😵	0	6.0	dizzy_face face with crossed-out eyes
+S	😵‍💫	0	13.1	face_with_spiral_eyes face with spiral eyes
+S	🤯	0	11.0	mind blown exploding_head exploding head
+S	🤠	0	9.0	cowboy_hat_face cowboy hat face
+S	🥳	0	11.0	celebration birthday partying_face partying face
+S	🥸	0	13.0	disguised_face disguised face
+S	😎	0	6.0	cool sunglasses smiling face with sunglasses
+S	🤓	0	8.0	geek glasses nerd_face nerd face
+S	🧐	0	11.0	monocle_face face with monocle
+S	😕	0	6.1	confused confused face
+S	🫤	0	14.0	confused face_with_diagonal_mouth face with diagonal mouth
+S	😟	0	6.1	nervous worried worried face
+S	🙁	0	7.0	slightly_frowning_face slightly frowning face
+S	☹️	0		frowning_face frowning face
+S	😮	0	6.1	surprise impressed wow open_mouth face with open mouth
+S	😯	0	6.1	silence speechless hushed hushed face
+S	😲	0	6.0	amazed gasp astonished astonished face
+S	😳	0	6.0	flushed flushed face
+S	🥺	0	11.0	puppy eyes pleading_face pleading face
+S	🥹	0	14.0	tears gratitude face_holding_back_tears face holding back tears
+S	😦	0	6.1	frowning frowning face with open mouth
+S	😧	0	6.1	stunned anguished anguished face
+S	😨	0	6.0	scared shocked oops fearful fearful face
+S	😰	0	6.0	nervous cold_sweat anxious face with sweat
+S	😥	0	6.0	phew sweat nervous disappointed_relieved sad but relieved face
+S	😢	0	6.0	sad tear cry crying face
+S	😭	0	6.0	sad cry bawling sob loudly crying face
+S	😱	0	6.0	horror shocked scream face screaming in fear
+S	😖	0	6.0	confounded confounded face
+S	😣	0	6.0	struggling persevere persevering face
+S	😞	0	6.0	sad disappointed disappointed face
+S	😓	0	6.0	sweat downcast face with sweat
+S	😩	0	6.0	tired weary weary face
+S	😫	0	6.0	upset whine tired_face tired face
+S	🥱	0	12.0	yawning_face yawning face
+S	😤	0	6.0	smug triumph face with steam from nose
+S	😡	0	6.0	angry rage pout enraged face
+S	😠	0	6.0	mad annoyed angry angry face
+S	🤬	0	11.0	foul cursing_face face with symbols on mouth
+S	😈	0	6.0	devil evil horns smiling_imp smiling face with horns
+S	👿	0	6.0	angry devil evil horns imp angry face with horns
+S	💀	0	6.0	dead danger poison skull skull
+S	☠️	0		danger pirate skull_and_crossbones skull and crossbones
+S	💩	0	6.0	crap hankey poop shit pile of poo
+S	🤡	0	9.0	clown_face clown face
+S	👹	0	6.0	monster japanese_ogre ogre
+S	👺	0	6.0	japanese_goblin goblin
+S	👻	0	6.0	halloween ghost ghost
+S	👽	0	6.0	ufo alien alien
+S	👾	0	6.0	game retro space_invader alien monster
+S	🤖	0	8.0	robot robot
+S	😺	0	6.0	smiley_cat grinning cat
+S	😸	0	6.0	smile_cat grinning cat with smiling eyes
+S	😹	0	6.0	joy_cat cat with tears of joy
+S	😻	0	6.0	heart_eyes_cat smiling cat with heart-eyes
+S	😼	0	6.0	smirk_cat cat with wry smile
+S	😽	0	6.0	kissing_cat kissing cat
+S	🙀	0	6.0	horror scream_cat weary cat
+S	😿	0	6.0	sad tear crying_cat_face crying cat
+S	😾	0	6.0	pouting_cat pouting cat
+S	🙈	0	6.0	monkey blind ignore see_no_evil see-no-evil monkey
+S	🙉	0	6.0	monkey deaf hear_no_evil hear-no-evil monkey
+S	🙊	0	6.0	monkey mute hush speak_no_evil speak-no-evil monkey
+S	💌	0	6.0	email envelope love_letter love letter
+S	💘	0	6.0	love heart cupid heart with arrow
+S	💝	0	6.0	chocolates gift_heart heart with ribbon
+S	💖	0	6.0	sparkling_heart sparkling heart
+S	💗	0	6.0	heartpulse growing heart
+S	💓	0	6.0	heartbeat beating heart
+S	💞	0	6.0	revolving_hearts revolving hearts
+S	💕	0	6.0	two_hearts two hearts
+S	💟	0	6.0	heart_decoration heart decoration
+S	❣️	0		heavy_heart_exclamation heart exclamation
+S	💔	0	6.0	broken_heart broken heart
+S	❤️‍🔥	0	13.1	heart_on_fire heart on fire
+S	❤️‍🩹	0	13.1	mending_heart mending heart
+S	❤️	0		love heart red heart
+S	🩷	0	15.0	pink_heart pink heart
+S	🧡	0	11.0	orange_heart orange heart
+S	💛	0	6.0	yellow_heart yellow heart
+S	💚	0	6.0	green_heart green heart
+S	💙	0	6.0	blue_heart blue heart
+S	🩵	0	15.0	light_blue_heart light blue heart
+S	💜	0	6.0	purple_heart purple heart
+S	🤎	0	12.0	brown_heart brown heart
+S	🖤	0	9.0	black_heart black heart
+S	🩶	0	15.0	grey_heart grey heart
+S	🤍	0	12.0	white_heart white heart
+S	💋	0	6.0	lipstick kiss kiss mark
+S	💯	0	6.0	score perfect 100 hundred points
+S	💢	0	6.0	angry anger anger symbol
+S	💥	0	6.0	explode boom collision collision
+S	💫	0	6.0	star dizzy dizzy
+S	💦	0	6.0	water workout sweat_drops sweat droplets
+S	💨	0	6.0	wind blow fast dash dashing away
+S	🕳️	0	7.0	hole hole
+S	💬	0	6.0	comment speech_balloon speech balloon
+S	👁️‍🗨️	0	11.0	eye_speech_bubble eye in speech bubble
+S	🗨️	0	11.0	left_speech_bubble left speech bubble
+S	🗯️	0	7.0	right_anger_bubble right anger bubble
+S	💭	0	6.0	thinking thought_balloon thought balloon
+S	💤	0	6.0	sleeping zzz ZZZ
+P	👋	1	6.0	goodbye wave waving hand
+P	🤚	1	9.0	raised_back_of_hand raised back of hand
+P	🖐️	1	7.0	raised_hand_with_fingers_splayed hand with fingers splayed
+P	✋	1	6.0	highfive stop hand raised_hand raised hand
+P	🖖	1	7.0	prosper spock vulcan_salute vulcan salute
+P	🫱	1	14.0	rightwards_hand rightwards hand
+P	🫲	1	14.0	leftwards_hand leftwards hand
+P	🫳	1	14.0	palm_down_hand palm down hand
+P	🫴	1	14.0	palm_up_hand palm up hand
+P	🫷	1	15.0	leftwards_pushing_hand leftwards pushing hand
+P	🫸	1	15.0	rightwards_pushing_hand rightwards pushing hand
+P	👌	1	6.0	ok_hand OK hand
+P	🤌	1	13.0	pinched_fingers pinched fingers
+P	🤏	1	12.0	pinching_hand pinching hand
+P	✌️	1		victory peace v victory hand
+P	🤞	1	9.0	luck hopeful crossed_fingers crossed fingers
+P	🫰	1	14.0	hand_with_index_finger_and_thumb_crossed hand with index finger and thumb crossed
+P	🤟	1	11.0	love_you_gesture love-you gesture
+P	🤘	1	8.0	metal sign of the horns
+P	🤙	1	9.0	call_me_hand call me hand
+P	👈	1	6.0	point_left backhand index pointing left
+P	👉	1	6.0	point_right backhand index pointing right
+P	👆	1	6.0	point_up_2 backhand index pointing up
+P	🖕	1	7.0	middle_finger fu middle finger
+P	👇	1	6.0	point_down backhand index pointing down
+P	☝️	1		point_up index pointing up
+P	🫵	1	14.0	index_pointing_at_the_viewer index pointing at the viewer
+P	👍	1	6.0	approve ok +1 thumbsup thumbs up
+P	👎	1	6.0	disapprove bury -1 thumbsdown thumbs down
+P	✊	1	6.0	power fist_raised fist raised fist
+P	👊	1	6.0	attack fist_oncoming facepunch punch oncoming fist
+P	🤛	1	9.0	fist_left left-facing fist
+P	🤜	1	9.0	fist_right right-facing fist
+P	👏	1	6.0	praise applause clap clapping hands
+P	🙌	1	6.0	hooray raised_hands raising hands
+P	🫶	1	14.0	love heart_hands heart hands
+P	👐	1	6.0	open_hands open hands
+P	🤲	1	11.0	palms_up_together palms up together
+P	🤝	1	9.0	deal handshake handshake
+P	🙏	1	6.0	please hope wish pray folded hands
+P	✍️	1		writing_hand writing hand
+P	💅	1	6.0	beauty manicure nail_care nail polish
+P	🤳	1	9.0	selfie selfie
+P	💪	1	6.0	flex bicep strong workout muscle flexed biceps
+P	🦾	0	12.0	mechanical_arm mechanical arm
+P	🦿	0	12.0	mechanical_leg mechanical leg
+P	🦵	1	11.0	leg leg
+P	🦶	1	11.0	foot foot
+P	👂	1	6.0	hear sound listen ear ear
+P	🦻	1	12.0	ear_with_hearing_aid ear with hearing aid
+P	👃	1	6.0	smell nose nose
+P	🧠	0	11.0	brain brain
+P	🫀	0	13.0	anatomical_heart anatomical heart
+P	🫁	0	13.0	lungs lungs
+P	🦷	0	11.0	tooth tooth
+P	🦴	0	11.0	bone bone
+P	👀	0	6.0	look see watch eyes eyes
+P	👁️	0	7.0	eye eye
+P	👅	0	6.0	taste tongue tongue
+P	👄	0	6.0	kiss lips mouth
+P	🫦	0	14.0	biting_lip biting lip
+P	👶	1	6.0	child newborn baby baby
+P	🧒	1	11.0	child child
+P	👦	1	6.0	child boy boy
+P	👧	1	6.0	child girl girl
+P	🧑	1	11.0	adult person
+P	👱	1	6.0	blond_haired_person person: blond hair
+P	👨	1	6.0	mustache father dad man man
+P	🧔	1	11.0	bearded_person person: beard
+P	🧔‍♂️	1	13.1	man_beard man: beard
+P	🧔‍♀️	1	13.1	woman_beard woman: beard
+P	👨‍🦰	1	11.0	red_haired_man man: red hair
+P	👨‍🦱	1	11.0	curly_haired_man man: curly hair
+P	👨‍🦳	1	11.0	white_haired_man man: white hair
+P	👨‍🦲	1	11.0	bald_man man: bald
+P	👩	1	6.0	girls woman woman
+P	👩‍🦰	1	11.0	red_haired_woman woman: red hair
+P	🧑‍🦰	1	12.1	person_red_hair person: red hair
+P	👩‍🦱	1	11.0	curly_haired_woman woman: curly hair
+P	🧑‍🦱	1	12.1	person_curly_hair person: curly hair
+P	👩‍🦳	1	11.0	white_haired_woman woman: white hair
+P	🧑‍🦳	1	12.1	person_white_hair person: white hair
+P	👩‍🦲	1	11.0	bald_woman woman: bald
+P	🧑‍🦲	1	12.1	person_bald person: bald
+P	👱‍♀️	1	6.0	blond_haired_woman blonde_woman woman: blond hair
+P	👱‍♂️	1	11.0	blond_haired_man man: blond hair
+P	🧓	1	11.0	older_adult older person
+P	👴	1	6.0	older_man old man
+P	👵	1	6.0	older_woman old woman
+P	🙍	1	6.0	frowning_person person frowning
+P	🙍‍♂️	1	6.0	frowning_man man frowning
+P	🙍‍♀️	1	11.0	frowning_woman woman frowning
+P	🙎	1	6.0	pouting_face person pouting
+P	🙎‍♂️	1	6.0	pouting_man man pouting
+P	🙎‍♀️	1	11.0	pouting_woman woman pouting
+P	🙅	1	6.0	stop halt denied no_good person gesturing NO
+P	🙅‍♂️	1	6.0	stop halt denied no_good_man ng_man man gesturing NO
+P	🙅‍♀️	1	11.0	stop halt denied no_good_woman ng_woman woman gesturing NO
+P	🙆	1	6.0	ok_person person gesturing OK
+P	🙆‍♂️	1	6.0	ok_man man gesturing OK
+P	🙆‍♀️	1	11.0	ok_woman woman gesturing OK
+P	💁	1	6.0	tipping_hand_person information_desk_person person tipping hand
+P	💁‍♂️	1	6.0	information tipping_hand_man sassy_man man tipping hand
+P	💁‍♀️	1	11.0	information tipping_hand_woman sassy_woman woman tipping hand
+P	🙋	1	6.0	raising_hand person raising hand
+P	🙋‍♂️	1	6.0	raising_hand_man man raising hand
+P	🙋‍♀️	1	11.0	raising_hand_woman woman raising hand
+P	🧏	1	12.0	deaf_person deaf person
+P	🧏‍♂️	1	12.0	deaf_man deaf man
+P	🧏‍♀️	1	12.0	deaf_woman deaf woman
+P	🙇	1	6.0	respect thanks bow person bowing
+P	🙇‍♂️	1	11.0	respect thanks bowing_man man bowing
+P	🙇‍♀️	1	6.0	respect thanks bowing_woman woman bowing
+P	🤦	1	11.0	facepalm person facepalming
+P	🤦‍♂️	1	9.0	man_facepalming man facepalming
+P	🤦‍♀️	1	9.0	woman_facepalming woman facepalming
+P	🤷	1	11.0	shrug person shrugging
+P	🤷‍♂️	1	9.0	man_shrugging man shrugging
+P	🤷‍♀️	1	9.0	woman_shrugging woman shrugging
+P	🧑‍⚕️	1	12.1	health_worker health worker
+P	👨‍⚕️	1		doctor nurse man_health_worker man health worker
+P	👩‍⚕️	1		doctor nurse woman_health_worker woman health worker
+P	🧑‍🎓	1	12.1	student student
+P	👨‍🎓	1		graduation man_student man student
+P	👩‍🎓	1		graduation woman_student woman student
+P	🧑‍🏫	1	12.1	teacher teacher
+P	👨‍🏫	1		school professor man_teacher man teacher
+P	👩‍🏫	1		school professor woman_teacher woman teacher
+P	🧑‍⚖️	1	12.1	judge judge
+P	👨‍⚖️	1		justice man_judge man judge
+P	👩‍⚖️	1		justice woman_judge woman judge
+P	🧑‍🌾	1	12.1	farmer farmer
+P	👨‍🌾	1		man_farmer man farmer
+P	👩‍🌾	1		woman_farmer woman farmer
+P	🧑‍🍳	1	12.1	cook cook
+P	👨‍🍳	1		chef man_cook man cook
+P	👩‍🍳	1		chef woman_cook woman cook
+P	🧑‍🔧	1	12.1	mechanic mechanic
+P	👨‍🔧	1		man_mechanic man mechanic
+P	👩‍🔧	1		woman_mechanic woman mechanic
+P	🧑‍🏭	1	12.1	factory_worker factory worker
+P	👨‍🏭	1		man_factory_worker man factory worker
+P	👩‍🏭	1		woman_factory_worker woman factory worker
+P	🧑‍💼	1	12.1	office_worker office worker
+P	👨‍💼	1		business man_office_worker man office worker
+P	👩‍💼	1		business woman_office_worker woman office worker
+P	🧑‍🔬	1	12.1	scientist scientist
+P	👨‍🔬	1		research man_scientist man scientist
+P	👩‍🔬	1		research woman_scientist woman scientist
+P	🧑‍💻	1	12.1	technologist technologist
+P	👨‍💻	1		coder man_technologist man technologist
+P	👩‍💻	1		coder woman_technologist woman technologist
+P	🧑‍🎤	1	12.1	singer singer
+P	👨‍🎤	1		rockstar man_singer man singer
+P	👩‍🎤	1		rockstar woman_singer woman singer
+P	🧑‍🎨	1	12.1	artist artist
+P	👨‍🎨	1		painter man_artist man artist
+P	👩‍🎨	1		painter woman_artist woman artist
+P	🧑‍✈️	1	12.1	pilot pilot
+P	👨‍✈️	1		man_pilot man pilot
+P	👩‍✈️	1		woman_pilot woman pilot
+P	🧑‍🚀	1	12.1	astronaut astronaut
+P	👨‍🚀	1		space man_astronaut man astronaut
+P	👩‍🚀	1		space woman_astronaut woman astronaut
+P	🧑‍🚒	1	12.1	firefighter firefighter
+P	👨‍🚒	1		man_firefighter man firefighter
+P	👩‍🚒	1		woman_firefighter woman firefighter
+P	👮	1	6.0	law police_officer cop police officer
+P	👮‍♂️	1	11.0	law cop policeman man police officer
+P	👮‍♀️	1	6.0	law cop policewoman woman police officer
+P	🕵️	1	7.0	sleuth detective detective
+P	🕵️‍♂️	1	11.0	sleuth male_detective man detective
+P	🕵️‍♀️	1	6.0	sleuth female_detective woman detective
+P	💂	1	6.0	guard guard
+P	💂‍♂️	1	11.0	guardsman man guard
+P	💂‍♀️	1	6.0	guardswoman woman guard
+P	🥷	1	13.0	ninja ninja
+P	👷	1	6.0	helmet construction_worker construction worker
+P	👷‍♂️	1	11.0	helmet construction_worker_man man construction worker
+P	👷‍♀️	1	6.0	helmet construction_worker_woman woman construction worker
+P	🫅	1	14.0	person_with_crown person with crown
+P	🤴	1	9.0	crown royal prince prince
+P	👸	1	6.0	crown royal princess princess
+P	👳	1	6.0	person_with_turban person wearing turban
+P	👳‍♂️	1	11.0	man_with_turban man wearing turban
+P	👳‍♀️	1	6.0	woman_with_turban woman wearing turban
+P	👲	1	6.0	man_with_gua_pi_mao person with skullcap
+P	🧕	1	11.0	hijab woman_with_headscarf woman with headscarf
+P	🤵	1	9.0	groom marriage wedding person_in_tuxedo person in tuxedo
+P	🤵‍♂️	1	13.0	man_in_tuxedo man in tuxedo
+P	🤵‍♀️	1	13.0	woman_in_tuxedo woman in tuxedo
+P	👰	1	6.0	marriage wedding person_with_veil person with veil
+P	👰‍♂️	1	13.0	man_with_veil man with veil
+P	👰‍♀️	1	13.0	woman_with_veil bride_with_veil woman with veil
+P	🤰	1	9.0	pregnant_woman pregnant woman
+P	🫃	1	14.0	pregnant_man pregnant man
+P	🫄	1	14.0	pregnant_person pregnant person
+P	🤱	1	11.0	nursing breast_feeding breast-feeding
+P	👩‍🍼	1	13.0	woman_feeding_baby woman feeding baby
+P	👨‍🍼	1	13.0	man_feeding_baby man feeding baby
+P	🧑‍🍼	1	13.0	person_feeding_baby person feeding baby
+P	👼	1	6.0	angel baby angel
+P	🎅	1	6.0	christmas santa Santa Claus
+P	🤶	1	9.0	santa mrs_claus Mrs. Claus
+P	🧑‍🎄	1	13.0	mx_claus mx claus
+P	🦸	1	11.0	superhero superhero
+P	🦸‍♂️	1	11.0	superhero_man man superhero
+P	🦸‍♀️	1	11.0	superhero_woman woman superhero
+P	🦹	1	11.0	supervillain supervillain
+P	🦹‍♂️	1	11.0	supervillain_man man supervillain
+P	🦹‍♀️	1	11.0	supervillain_woman woman supervillain
+P	🧙	1	11.0	wizard mage mage
+P	🧙‍♂️	1	11.0	wizard mage_man man mage
+P	🧙‍♀️	1	11.0	wizard mage_woman woman mage
+P	🧚	1	11.0	fairy fairy
+P	🧚‍♂️	1	11.0	fairy_man man fairy
+P	🧚‍♀️	1	11.0	fairy_woman woman fairy
+P	🧛	1	11.0	vampire vampire
+P	🧛‍♂️	1	11.0	vampire_man man vampire
+P	🧛‍♀️	1	11.0	vampire_woman woman vampire
+P	🧜	1	11.0	merperson merperson
+P	🧜‍♂️	1	11.0	merman merman
+P	🧜‍♀️	1	11.0	mermaid mermaid
+P	🧝	1	11.0	elf elf
+P	🧝‍♂️	1	11.0	elf_man man elf
+P	🧝‍♀️	1	11.0	elf_woman woman elf
+P	🧞	0	11.0	genie genie
+P	🧞‍♂️	0	11.0	genie_man man genie
+P	🧞‍♀️	0	11.0	genie_woman woman genie
+P	🧟	0	11.0	zombie zombie
+P	🧟‍♂️	0	11.0	zombie_man man zombie
+P	🧟‍♀️	0	11.0	zombie_woman woman zombie
+P	🧌	0	14.0	troll troll
+P	💆	1	6.0	spa massage person getting massage
+P	💆‍♂️	1	6.0	spa massage_man man getting massage
+P	💆‍♀️	1	11.0	spa massage_woman woman getting massage
+P	💇	1	6.0	beauty haircut person getting haircut
+P	💇‍♂️	1	6.0	haircut_man man getting haircut
+P	💇‍♀️	1	11.0	haircut_woman woman getting haircut
+P	🚶	1	6.0	walking person walking
+P	🚶‍♂️	1	11.0	walking_man man walking
+P	🚶‍♀️	1	6.0	walking_woman woman walking
+P	🧍	1	12.0	standing_person person standing
+P	🧍‍♂️	1	12.0	standing_man man standing
+P	🧍‍♀️	1	12.0	standing_woman woman standing
+P	🧎	1	12.0	kneeling_person person kneeling
+P	🧎‍♂️	1	12.0	kneeling_man man kneeling
+P	🧎‍♀️	1	12.0	kneeling_woman woman kneeling
+P	🧑‍🦯	1	12.1	person_with_probing_cane person with white cane
+P	👨‍🦯	1	12.0	man_with_probing_cane man with white cane
+P	👩‍🦯	1	12.0	woman_with_probing_cane woman with white cane
+P	🧑‍🦼	1	12.1	person_in_motorized_wheelchair person in motorized wheelchair
+P	👨‍🦼	1	12.0	man_in_motorized_wheelchair man in motorized wheelchair
+P	👩‍🦼	1	12.0	woman_in_motorized_wheelchair woman in motorized wheelchair
+P	🧑‍🦽	1	12.1	person_in_manual_wheelchair person in manual wheelchair
+P	👨‍🦽	1	12.0	man_in_manual_wheelchair man in manual wheelchair
+P	👩‍🦽	1	12.0	woman_in_manual_wheelchair woman in manual wheelchair
+P	🏃	1	6.0	exercise workout marathon runner running person running
+P	🏃‍♂️	1	11.0	exercise workout marathon running_man man running
+P	🏃‍♀️	1	6.0	exercise workout marathon running_woman woman running
+P	💃	1	6.0	dress woman_dancing dancer woman dancing
+P	🕺	1	9.0	dancer man_dancing man dancing
+P	🕴️	1	7.0	business_suit_levitating person in suit levitating
+P	👯	0	6.0	bunny dancers people with bunny ears
+P	👯‍♂️	0	6.0	bunny dancing_men men with bunny ears
+P	👯‍♀️	0	11.0	bunny dancing_women women with bunny ears
+P	🧖	1	11.0	steamy sauna_person person in steamy room
+P	🧖‍♂️	1	11.0	steamy sauna_man man in steamy room
+P	🧖‍♀️	1	11.0	steamy sauna_woman woman in steamy room
+P	🧗	1	11.0	bouldering climbing person climbing
+P	🧗‍♂️	1	11.0	bouldering climbing_man man climbing
+P	🧗‍♀️	1	11.0	bouldering climbing_woman woman climbing
+P	🤺	0	9.0	person_fencing person fencing
+P	🏇	1	6.0	horse_racing horse racing
+P	⛷️	0	5.2	skier skier
+P	🏂	1	6.0	snowboarder snowboarder
+P	🏌️	1	7.0	golfing person golfing
+P	🏌️‍♂️	1	11.0	golfing_man man golfing
+P	🏌️‍♀️	1		golfing_woman woman golfing
+P	🏄	1	6.0	surfer person surfing
+P	🏄‍♂️	1	11.0	surfing_man man surfing
+P	🏄‍♀️	1	7.0	surfing_woman woman surfing
+P	🚣	1	6.0	rowboat person rowing boat
+P	🚣‍♂️	1	11.0	rowing_man man rowing boat
+P	🚣‍♀️	1	6.0	rowing_woman woman rowing boat
+P	🏊	1	6.0	swimmer person swimming
+P	🏊‍♂️	1	11.0	swimming_man man swimming
+P	🏊‍♀️	1	6.0	swimming_woman woman swimming
+P	⛹️	1	5.2	basketball bouncing_ball_person person bouncing ball
+P	⛹️‍♂️	1	11.0	bouncing_ball_man basketball_man man bouncing ball
+P	⛹️‍♀️	1	7.0	bouncing_ball_woman basketball_woman woman bouncing ball
+P	🏋️	1	7.0	gym workout weight_lifting person lifting weights
+P	🏋️‍♂️	1	11.0	gym workout weight_lifting_man man lifting weights
+P	🏋️‍♀️	1	6.0	gym workout weight_lifting_woman woman lifting weights
+P	🚴	1	6.0	bicyclist person biking
+P	🚴‍♂️	1	11.0	biking_man man biking
+P	🚴‍♀️	1	6.0	biking_woman woman biking
+P	🚵	1	6.0	mountain_bicyclist person mountain biking
+P	🚵‍♂️	1	11.0	mountain_biking_man man mountain biking
+P	🚵‍♀️	1	6.0	mountain_biking_woman woman mountain biking
+P	🤸	1	11.0	cartwheeling person cartwheeling
+P	🤸‍♂️	1		man_cartwheeling man cartwheeling
+P	🤸‍♀️	1		woman_cartwheeling woman cartwheeling
+P	🤼	0	11.0	wrestling people wrestling
+P	🤼‍♂️	0	9.0	men_wrestling men wrestling
+P	🤼‍♀️	0	9.0	women_wrestling women wrestling
+P	🤽	1	11.0	water_polo person playing water polo
+P	🤽‍♂️	1	9.0	man_playing_water_polo man playing water polo
+P	🤽‍♀️	1	9.0	woman_playing_water_polo woman playing water polo
+P	🤾	1	11.0	handball_person person playing handball
+P	🤾‍♂️	1	9.0	man_playing_handball man playing handball
+P	🤾‍♀️	1	9.0	woman_playing_handball woman playing handball
+P	🤹	1	11.0	juggling_person person juggling
+P	🤹‍♂️	1	9.0	man_juggling man juggling
+P	🤹‍♀️	1	9.0	woman_juggling woman juggling
+P	🧘	1	11.0	meditation lotus_position person in lotus position
+P	🧘‍♂️	1	11.0	meditation lotus_position_man man in lotus position
+P	🧘‍♀️	1	11.0	meditation lotus_position_woman woman in lotus position
+P	🛀	1	6.0	shower bath person taking bath
+P	🛌	1	7.0	sleeping_bed person in bed
+P	🧑‍🤝‍🧑	1	12.0	couple date people_holding_hands people holding hands
+P	👭	1	6.0	couple date two_women_holding_hands women holding hands
+P	👫	1	6.0	date couple woman and man holding hands
+P	👬	1	6.0	couple date two_men_holding_hands men holding hands
+P	💏	1	6.0	couplekiss kiss
+P	👩‍❤️‍💋‍👨	1	11.0	couplekiss_man_woman kiss: woman, man
+P	👨‍❤️‍💋‍👨	1	6.0	couplekiss_man_man kiss: man, man
+P	👩‍❤️‍💋‍👩	1	6.0	couplekiss_woman_woman kiss: woman, woman
+P	💑	1	6.0	couple_with_heart couple with heart
+P	👩‍❤️‍👨	1	11.0	couple_with_heart_woman_man couple with heart: woman, man
+P	👨‍❤️‍👨	1	6.0	couple_with_heart_man_man couple with heart: man, man
+P	👩‍❤️‍👩	1	6.0	couple_with_heart_woman_woman couple with heart: woman, woman
+P	👪	0	6.0	home parents child family family
+P	👨‍👩‍👦	0	11.0	family_man_woman_boy family: man, woman, boy
+P	👨‍👩‍👧	0	6.0	family_man_woman_girl family: man, woman, girl
+P	👨‍👩‍👧‍👦	0	6.0	family_man_woman_girl_boy family: man, woman, girl, boy
+P	👨‍👩‍👦‍👦	0	6.0	family_man_woman_boy_boy family: man, woman, boy, boy
+P	👨‍👩‍👧‍👧	0	6.0	family_man_woman_girl_girl family: man, woman, girl, girl
+P	👨‍👨‍👦	0	6.0	family_man_man_boy family: man, man, boy
+P	👨‍👨‍👧	0	6.0	family_man_man_girl family: man, man, girl
+P	👨‍👨‍👧‍👦	0	6.0	family_man_man_girl_boy family: man, man, girl, boy
+P	👨‍👨‍👦‍👦	0	6.0	family_man_man_boy_boy family: man, man, boy, boy
+P	👨‍👨‍👧‍👧	0	6.0	family_man_man_girl_girl family: man, man, girl, girl
+P	👩‍👩‍👦	0	6.0	family_woman_woman_boy family: woman, woman, boy
+P	👩‍👩‍👧	0	6.0	family_woman_woman_girl family: woman, woman, girl
+P	👩‍👩‍👧‍👦	0	6.0	family_woman_woman_girl_boy family: woman, woman, girl, boy
+P	👩‍👩‍👦‍👦	0	6.0	family_woman_woman_boy_boy family: woman, woman, boy, boy
+P	👩‍👩‍👧‍👧	0	6.0	family_woman_woman_girl_girl family: woman, woman, girl, girl
+P	👨‍👦	0	6.0	family_man_boy family: man, boy
+P	👨‍👦‍👦	0	6.0	family_man_boy_boy family: man, boy, boy
+P	👨‍👧	0	6.0	family_man_girl family: man, girl
+P	👨‍👧‍👦	0	6.0	family_man_girl_boy family: man, girl, boy
+P	👨‍👧‍👧	0	6.0	family_man_girl_girl family: man, girl, girl
+P	👩‍👦	0	6.0	family_woman_boy family: woman, boy
+P	👩‍👦‍👦	0	6.0	family_woman_boy_boy family: woman, boy, boy
+P	👩‍👧	0	6.0	family_woman_girl family: woman, girl
+P	👩‍👧‍👦	0	6.0	family_woman_girl_boy family: woman, girl, boy
+P	👩‍👧‍👧	0	6.0	family_woman_girl_girl family: woman, girl, girl
+P	🗣️	0	7.0	speaking_head speaking head
+P	👤	0	6.0	user bust_in_silhouette bust in silhouette
+P	👥	0	6.0	users group team busts_in_silhouette busts in silhouette
+P	🫂	0	13.0	people_hugging people hugging
+P	👣	0	6.0	feet tracks footprints footprints
+A	🐵	0	6.0	monkey_face monkey face
+A	🐒	0	6.0	monkey monkey
+A	🦍	0	9.0	gorilla gorilla
+A	🦧	0	12.0	orangutan orangutan
+A	🐶	0	6.0	pet dog dog face
+A	🐕	0	6.0	dog2 dog
+A	🦮	0	12.0	guide_dog guide dog
+A	🐕‍🦺	0	12.0	service_dog service dog
+A	🐩	0	6.0	dog poodle poodle
+A	🐺	0	6.0	wolf wolf
+A	🦊	0	9.0	fox_face fox
+A	🦝	0	11.0	raccoon raccoon
+A	🐱	0	6.0	pet cat cat face
+A	🐈	0	6.0	cat2 cat
+A	🐈‍⬛	0	13.0	black_cat black cat
+A	🦁	0	8.0	lion lion
+A	🐯	0	6.0	tiger tiger face
+A	🐅	0	6.0	tiger2 tiger
+A	🐆	0	6.0	leopard leopard
+A	🐴	0	6.0	horse horse face
+A	🫎	0	15.0	canada moose moose
+A	🫏	0	15.0	mule donkey donkey
+A	🐎	0	6.0	speed racehorse horse
+A	🦄	0	8.0	unicorn unicorn
+A	🦓	0	11.0	zebra zebra
+A	🦌	0	9.0	deer deer
+A	🦬	0	13.0	bison bison
+A	🐮	0	6.0	cow cow face
+A	🐂	0	6.0	ox ox
+A	🐃	0	6.0	water_buffalo water buffalo
+A	🐄	0	6.0	cow2 cow
+A	🐷	0	6.0	pig pig face
+A	🐖	0	6.0	pig2 pig
+A	🐗	0	6.0	boar boar
+A	🐽	0	6.0	pig_nose pig nose
+A	🐏	0	6.0	ram ram
+A	🐑	0	6.0	sheep ewe
+A	🐐	0	6.0	goat goat
+A	🐪	0	6.0	desert dromedary_camel camel
+A	🐫	0	6.0	camel two-hump camel
+A	🦙	0	11.0	llama llama
+A	🦒	0	11.0	giraffe giraffe
+A	🐘	0	6.0	elephant elephant
+A	🦣	0	13.0	mammoth mammoth
+A	🦏	0	9.0	rhinoceros rhinoceros
+A	🦛	0	11.0	hippopotamus hippopotamus
+A	🐭	0	6.0	mouse mouse face
+A	🐁	0	6.0	mouse2 mouse
+A	🐀	0	6.0	rat rat
+A	🐹	0	6.0	pet hamster hamster
+A	🐰	0	6.0	bunny rabbit rabbit face
+A	🐇	0	6.0	rabbit2 rabbit
+A	🐿️	0	7.0	chipmunk chipmunk
+A	🦫	0	13.0	beaver beaver
+A	🦔	0	11.0	hedgehog hedgehog
+A	🦇	0	9.0	bat bat
+A	🐻	0	6.0	bear bear
+A	🐻‍❄️	0	13.0	polar_bear polar bear
+A	🐨	0	6.0	koala koala
+A	🐼	0	6.0	panda_face panda
+A	🦥	0	12.0	sloth sloth
+A	🦦	0	12.0	otter otter
+A	🦨	0	12.0	skunk skunk
+A	🦘	0	11.0	kangaroo kangaroo
+A	🦡	0	11.0	badger badger
+A	🐾	0	6.0	feet paw_prints paw prints
+A	🦃	0	8.0	thanksgiving turkey turkey
+A	🐔	0	6.0	chicken chicken
+A	🐓	0	6.0	rooster rooster
+A	🐣	0	6.0	hatching_chick hatching chick
+A	🐤	0	6.0	baby_chick baby chick
+A	🐥	0	6.0	hatched_chick front-facing baby chick
+A	🐦	0	6.0	bird bird
+A	🐧	0	6.0	penguin penguin
+A	🕊️	0	7.0	peace dove dove
+A	🦅	0	9.0	eagle eagle
+A	🦆	0	9.0	duck duck
+A	🦢	0	11.0	swan swan
+A	🦉	0	9.0	owl owl
+A	🦤	0	13.0	dodo dodo
+A	🪶	0	13.0	feather feather
+A	🦩	0	12.0	flamingo flamingo
+A	🦚	0	11.0	peacock peacock
+A	🦜	0	11.0	parrot parrot
+A	🪽	0	15.0	fly wing wing
+A	🐦‍⬛	0	15.0	black_bird black bird
+A	🪿	0	15.0	honk goose goose
+A	🐸	0	6.0	frog frog
+A	🐊	0	6.0	crocodile crocodile
+A	🐢	0	6.0	slow turtle turtle
+A	🦎	0	9.0	lizard lizard
+A	🐍	0	6.0	snake snake
+A	🐲	0	6.0	dragon_face dragon face
+A	🐉	0	6.0	dragon dragon
+A	🦕	0	11.0	dinosaur sauropod sauropod
+A	🦖	0	11.0	dinosaur t-rex T-Rex
+A	🐳	0	6.0	sea whale spouting whale
+A	🐋	0	6.0	whale2 whale
+A	🐬	0	6.0	dolphin flipper dolphin
+A	🦭	0	13.0	seal seal
+A	🐟	0	6.0	fish fish
+A	🐠	0	6.0	tropical_fish tropical fish
+A	🐡	0	6.0	blowfish blowfish
+A	🦈	0	9.0	shark shark
+A	🐙	0	6.0	octopus octopus
+A	🐚	0	6.0	sea beach shell spiral shell
+A	🪸	0	14.0	coral coral
+A	🪼	0	15.0	jellyfish jellyfish
+A	🐌	0	6.0	slow snail snail
+A	🦋	0	9.0	butterfly butterfly
+A	🐛	0	6.0	bug bug
+A	🐜	0	6.0	ant ant
+A	🐝	0	6.0	bee honeybee honeybee
+A	🪲	0	13.0	beetle beetle
+A	🐞	0	6.0	bug lady_beetle lady beetle
+A	🦗	0	11.0	cricket cricket
+A	🪳	0	13.0	cockroach cockroach
+A	🕷️	0	7.0	spider spider
+A	🕸️	0	7.0	spider_web spider web
+A	🦂	0	8.0	scorpion scorpion
+A	🦟	0	11.0	mosquito mosquito
+A	🪰	0	13.0	fly fly
+A	🪱	0	13.0	worm worm
+A	🦠	0	11.0	germ microbe microbe
+A	💐	0	6.0	flowers bouquet bouquet
+A	🌸	0	6.0	flower spring cherry_blossom cherry blossom
+A	💮	0	6.0	white_flower white flower
+A	🪷	0	14.0	lotus lotus
+A	🏵️	0	7.0	rosette rosette
+A	🌹	0	6.0	flower rose rose
+A	🥀	0	9.0	wilted_flower wilted flower
+A	🌺	0	6.0	hibiscus hibiscus
+A	🌻	0	6.0	sunflower sunflower
+A	🌼	0	6.0	blossom blossom
+A	🌷	0	6.0	flower tulip tulip
+A	🪻	0	15.0	hyacinth hyacinth
+A	🌱	0	6.0	plant seedling seedling
+A	🪴	0	13.0	potted_plant potted plant
+A	🌲	0	6.0	wood evergreen_tree evergreen tree
+A	🌳	0	6.0	wood deciduous_tree deciduous tree
+A	🌴	0	6.0	palm_tree palm tree
+A	🌵	0	6.0	cactus cactus
+A	🌾	0	6.0	ear_of_rice sheaf of rice
+A	🌿	0	6.0	herb herb
+A	☘️	0	4.1	shamrock shamrock
+A	🍀	0	6.0	luck four_leaf_clover four leaf clover
+A	🍁	0	6.0	canada maple_leaf maple leaf
+A	🍂	0	6.0	autumn fallen_leaf fallen leaf
+A	🍃	0	6.0	leaf leaves leaf fluttering in wind
+A	🪹	0	14.0	empty_nest empty nest
+A	🪺	0	14.0	nest_with_eggs nest with eggs
+A	🍄	0	6.0	fungus mushroom mushroom
+F	🍇	0	6.0	grapes grapes
+F	🍈	0	6.0	melon melon
+F	🍉	0	6.0	watermelon watermelon
+F	🍊	0	6.0	tangerine orange mandarin tangerine
+F	🍋	0	6.0	lemon lemon
+F	🍌	0	6.0	fruit banana banana
+F	🍍	0	6.0	pineapple pineapple
+F	🥭	0	11.0	mango mango
+F	🍎	0	6.0	apple red apple
+F	🍏	0	6.0	fruit green_apple green apple
+F	🍐	0	6.0	pear pear
+F	🍑	0	6.0	peach peach
+F	🍒	0	6.0	fruit cherries cherries
+F	🍓	0	6.0	fruit strawberry strawberry
+F	🫐	0	13.0	blueberries blueberries
+F	🥝	0	9.0	kiwi_fruit kiwi fruit
+F	🍅	0	6.0	tomato tomato
+F	🫒	0	13.0	olive olive
+F	🥥	0	11.0	coconut coconut
+F	🥑	0	9.0	avocado avocado
+F	🍆	0	6.0	aubergine eggplant eggplant
+F	🥔	0	9.0	potato potato
+F	🥕	0	9.0	carrot carrot
+F	🌽	0	6.0	corn ear of corn
+F	🌶️	0	7.0	spicy hot_pepper hot pepper
+F	🫑	0	13.0	bell_pepper bell pepper
+F	🥒	0	9.0	cucumber cucumber
+F	🥬	0	11.0	leafy_green leafy green
+F	🥦	0	11.0	broccoli broccoli
+F	🧄	0	12.0	garlic garlic
+F	🧅	0	12.0	onion onion
+F	🥜	0	9.0	peanuts peanuts
+F	🫘	0	14.0	beans beans
+F	🌰	0	6.0	chestnut chestnut
+F	🫚	0	15.0	ginger_root ginger root
+F	🫛	0	15.0	pea_pod pea pod
+F	🍞	0	6.0	toast bread bread
+F	🥐	0	9.0	croissant croissant
+F	🥖	0	9.0	baguette_bread baguette bread
+F	🫓	0	13.0	flatbread flatbread
+F	🥨	0	11.0	pretzel pretzel
+F	🥯	0	11.0	bagel bagel
+F	🥞	0	9.0	pancakes pancakes
+F	🧇	0	12.0	waffle waffle
+F	🧀	0	8.0	cheese cheese wedge
+F	🍖	0	6.0	meat_on_bone meat on bone
+F	🍗	0	6.0	meat chicken poultry_leg poultry leg
+F	🥩	0	11.0	cut_of_meat cut of meat
+F	🥓	0	9.0	bacon bacon
+F	🍔	0	6.0	burger hamburger hamburger
+F	🍟	0	6.0	fries french fries
+F	🍕	0	6.0	pizza pizza
+F	🌭	0	8.0	hotdog hot dog
+F	🥪	0	11.0	sandwich sandwich
+F	🌮	0	8.0	taco taco
+F	🌯	0	8.0	burrito burrito
+F	🫔	0	13.0	tamale tamale
+F	🥙	0	9.0	stuffed_flatbread stuffed flatbread
+F	🧆	0	12.0	falafel falafel
+F	🥚	0	9.0	egg egg
+F	🍳	0	6.0	breakfast fried_egg cooking
+F	🥘	0		paella curry shallow_pan_of_food shallow pan of food
+F	🍲	0	6.0	stew pot of food
+F	🫕	0	13.0	fondue fondue
+F	🥣	0	11.0	bowl_with_spoon bowl with spoon
+F	🥗	0	9.0	green_salad green salad
+F	🍿	0	8.0	popcorn popcorn
+F	🧈	0	12.0	butter butter
+F	🧂	0	11.0	salt salt
+F	🥫	0	11.0	canned_food canned food
+F	🍱	0	6.0	bento bento box
+F	🍘	0	6.0	rice_cracker rice cracker
+F	🍙	0	6.0	rice_ball rice ball
+F	🍚	0	6.0	rice cooked rice
+F	🍛	0	6.0	curry curry rice
+F	🍜	0	6.0	noodle ramen steaming bowl
+F	🍝	0	6.0	pasta spaghetti spaghetti
+F	🍠	0	6.0	sweet_potato roasted sweet potato
+F	🍢	0	6.0	oden oden
+F	🍣	0	6.0	sushi sushi
+F	🍤	0	6.0	tempura fried_shrimp fried shrimp
+F	🍥	0	6.0	fish_cake fish cake with swirl
+F	🥮	0	11.0	moon_cake moon cake
+F	🍡	0	6.0	dango dango
+F	🥟	0	11.0	dumpling dumpling
+F	🥠	0	11.0	fortune_cookie fortune cookie
+F	🥡	0	11.0	takeout_box takeout box
+F	🦀	0	8.0	crab crab
+F	🦞	0	11.0	lobster lobster
+F	🦐	0	9.0	shrimp shrimp
+F	🦑	0	9.0	squid squid
+F	🦪	0	12.0	oyster oyster
+F	🍦	0	6.0	icecream soft ice cream
+F	🍧	0	6.0	shaved_ice shaved ice
+F	🍨	0	6.0	ice_cream ice cream
+F	🍩	0	6.0	doughnut doughnut
+F	🍪	0	6.0	cookie cookie
+F	🎂	0	6.0	party birthday birthday cake
+F	🍰	0	6.0	dessert cake shortcake
+F	🧁	0	11.0	cupcake cupcake
+F	🥧	0	11.0	pie pie
+F	🍫	0	6.0	chocolate_bar chocolate bar
+F	🍬	0	6.0	sweet candy candy
+F	🍭	0	6.0	lollipop lollipop
+F	🍮	0	6.0	custard custard
+F	🍯	0	6.0	honey_pot honey pot
+F	🍼	0	6.0	milk baby_bottle baby bottle
+F	🥛	0	9.0	milk_glass glass of milk
+F	☕	0	4.0	cafe espresso coffee hot beverage
+F	🫖	0	13.0	teapot teapot
+F	🍵	0	6.0	green breakfast tea teacup without handle
+F	🍶	0	6.0	sake sake
+F	🍾	0	8.0	bottle bubbly celebration champagne bottle with popping cork
+F	🍷	0	6.0	wine_glass wine glass
+F	🍸	0	6.0	drink cocktail cocktail glass
+F	🍹	0	6.0	summer vacation tropical_drink tropical drink
+F	🍺	0	6.0	drink beer beer mug
+F	🍻	0	6.0	drinks beers clinking beer mugs
+F	🥂	0	9.0	cheers toast clinking_glasses clinking glasses
+F	🥃	0	9.0	whisky tumbler_glass tumbler glass
+F	🫗	0	14.0	pouring_liquid pouring liquid
+F	🥤	0	11.0	cup_with_straw cup with straw
+F	🧋	0	13.0	bubble_tea bubble tea
+F	🧃	0	12.0	beverage_box beverage box
+F	🧉	0	12.0	mate mate
+F	🧊	0	12.0	ice_cube ice
+F	🥢	0	11.0	chopsticks chopsticks
+F	🍽️	0	7.0	dining dinner plate_with_cutlery fork and knife with plate
+F	🍴	0	6.0	cutlery fork_and_knife fork and knife
+F	🥄	0	9.0	spoon spoon
+F	🔪	0	6.0	cut chop hocho knife kitchen knife
+F	🫙	0	14.0	jar jar
+F	🏺	0	8.0	amphora amphora
+T	🌍	0	6.0	globe world international earth_africa globe showing Europe-Africa
+T	🌎	0	6.0	globe world international earth_americas globe showing Americas
+T	🌏	0	6.0	globe world international earth_asia globe showing Asia-Australia
+T	🌐	0	6.0	world global international globe_with_meridians globe with meridians
+T	🗺️	0	7.0	travel world_map world map
+T	🗾	0	6.0	japan map of Japan
+T	🧭	0	11.0	compass compass
+T	🏔️	0	7.0	mountain_snow snow-capped mountain
+T	⛰️	0	5.2	mountain mountain
+T	🌋	0	6.0	volcano volcano
+T	🗻	0	6.0	mount_fuji mount fuji
+T	🏕️	0	7.0	camping camping
+T	🏖️	0	7.0	beach_umbrella beach with umbrella
+T	🏜️	0	7.0	desert desert
+T	🏝️	0	7.0	desert_island desert island
+T	🏞️	0	7.0	national_park national park
+T	🏟️	0	7.0	stadium stadium
+T	🏛️	0	7.0	classical_building classical building
+T	🏗️	0	7.0	building_construction building construction
+T	🧱	0	11.0	bricks brick
+T	🪨	0	13.0	rock rock
+T	🪵	0	13.0	wood wood
+T	🛖	0	13.0	hut hut
+T	🏘️	0	7.0	houses houses
+T	🏚️	0	7.0	derelict_house derelict house
+T	🏠	0	6.0	house house
+T	🏡	0	6.0	house_with_garden house with garden
+T	🏢	0	6.0	office office building
+T	🏣	0	6.0	post_office Japanese post office
+T	🏤	0	6.0	european_post_office post office
+T	🏥	0	6.0	hospital hospital
+T	🏦	0	6.0	bank bank
+T	🏨	0	6.0	hotel hotel
+T	🏩	0	6.0	love_hotel love hotel
+T	🏪	0	6.0	convenience_store convenience store
+T	🏫	0	6.0	school school
+T	🏬	0	6.0	department_store department store
+T	🏭	0	6.0	factory factory
+T	🏯	0	6.0	japanese_castle Japanese castle
+T	🏰	0	6.0	european_castle castle
+T	💒	0	6.0	marriage wedding wedding
+T	🗼	0	6.0	tokyo_tower Tokyo tower
+T	🗽	0	6.0	statue_of_liberty Statue of Liberty
+T	⛪	0	5.2	church church
+T	🕌	0	8.0	mosque mosque
+T	🛕	0	12.0	hindu_temple hindu temple
+T	🕍	0	8.0	synagogue synagogue
+T	⛩️	0	5.2	shinto_shrine shinto shrine
+T	🕋	0	8.0	kaaba kaaba
+T	⛲	0	5.2	fountain fountain
+T	⛺	0	5.2	camping tent tent
+T	🌁	0	6.0	karl foggy foggy
+T	🌃	0	6.0	night_with_stars night with stars
+T	🏙️	0	7.0	skyline cityscape cityscape
+T	🌄	0	6.0	sunrise_over_mountains sunrise over mountains
+T	🌅	0	6.0	sunrise sunrise
+T	🌆	0	6.0	city_sunset cityscape at dusk
+T	🌇	0	6.0	city_sunrise sunset
+T	🌉	0	6.0	bridge_at_night bridge at night
+T	♨️	0		hotsprings hot springs
+T	🎠	0	6.0	carousel_horse carousel horse
+T	🛝	0	14.0	playground_slide playground slide
+T	🎡	0	6.0	ferris_wheel ferris wheel
+T	🎢	0	6.0	roller_coaster roller coaster
+T	💈	0	6.0	barber barber pole
+T	🎪	0	6.0	circus_tent circus tent
+T	🚂	0	6.0	train steam_locomotive locomotive
+T	🚃	0	6.0	railway_car railway car
+T	🚄	0	6.0	train bullettrain_side high-speed train
+T	🚅	0	6.0	train bullettrain_front bullet train
+T	🚆	0	6.0	train2 train
+T	🚇	0	6.0	metro metro
+T	🚈	0	6.0	light_rail light rail
+T	🚉	0	6.0	station station
+T	🚊	0	6.0	tram tram
+T	🚝	0	6.0	monorail monorail
+T	🚞	0	6.0	mountain_railway mountain railway
+T	🚋	0	6.0	train tram car
+T	🚌	0	6.0	bus bus
+T	🚍	0	6.0	oncoming_bus oncoming bus
+T	🚎	0	6.0	trolleybus trolleybus
+T	🚐	0	6.0	minibus minibus
+T	🚑	0	6.0	ambulance ambulance
+T	🚒	0	6.0	fire_engine fire engine
+T	🚓	0	6.0	police_car police car
+T	🚔	0	6.0	oncoming_police_car oncoming police car
+T	🚕	0	6.0	taxi taxi
+T	🚖	0	6.0	oncoming_taxi oncoming taxi
+T	🚗	0	6.0	car red_car automobile
+T	🚘	0	6.0	oncoming_automobile oncoming automobile
+T	🚙	0	6.0	blue_car sport utility vehicle
+T	🛻	0	13.0	pickup_truck pickup truck
+T	🚚	0	6.0	truck delivery truck
+T	🚛	0	6.0	articulated_lorry articulated lorry
+T	🚜	0	6.0	tractor tractor
+T	🏎️	0	7.0	racing_car racing car
+T	🏍️	0	7.0	motorcycle motorcycle
+T	🛵	0	9.0	motor_scooter motor scooter
+T	🦽	0	12.0	manual_wheelchair manual wheelchair
+T	🦼	0	12.0	motorized_wheelchair motorized wheelchair
+T	🛺	0	12.0	auto_rickshaw auto rickshaw
+T	🚲	0	6.0	bicycle bike bicycle
+T	🛴	0	9.0	kick_scooter kick scooter
+T	🛹	0	11.0	skateboard skateboard
+T	🛼	0	13.0	roller_skate roller skate
+T	🚏	0	6.0	busstop bus stop
+T	🛣️	0	7.0	motorway motorway
+T	🛤️	0	7.0	railway_track railway track
+T	🛢️	0	7.0	oil_drum oil drum
+T	⛽	0	5.2	fuelpump fuel pump
+T	🛞	0	14.0	wheel wheel
+T	🚨	0	6.0	911 emergency rotating_light police car light
+T	🚥	0	6.0	traffic_light horizontal traffic light
+T	🚦	0	6.0	semaphore vertical_traffic_light vertical traffic light
+T	🛑	0	9.0	stop_sign stop sign
+T	🚧	0	6.0	wip construction construction
+T	⚓	0	4.1	ship anchor anchor
+T	🛟	0	14.0	life preserver ring_buoy ring buoy
+T	⛵	0	5.2	boat sailboat sailboat
+T	🛶	0	9.0	canoe canoe
+T	🚤	0	6.0	ship speedboat speedboat
+T	🛳️	0	7.0	cruise passenger_ship passenger ship
+T	⛴️	0	5.2	ferry ferry
+T	🛥️	0	7.0	motor_boat motor boat
+T	🚢	0	6.0	ship ship
+T	✈️	0		flight airplane airplane
+T	🛩️	0	7.0	flight small_airplane small airplane
+T	🛫	0	7.0	flight_departure airplane departure
+T	🛬	0	7.0	flight_arrival airplane arrival
+T	🪂	0	12.0	parachute parachute
+T	💺	0	6.0	seat seat
+T	🚁	0	6.0	helicopter helicopter
+T	🚟	0	6.0	suspension_railway suspension railway
+T	🚠	0	6.0	mountain_cableway mountain cableway
+T	🚡	0	6.0	aerial_tramway aerial tramway
+T	🛰️	0	7.0	orbit space artificial_satellite satellite
+T	🚀	0	6.0	ship launch rocket rocket
+T	🛸	0	11.0	ufo flying_saucer flying saucer
+T	🛎️	0	7.0	bellhop_bell bellhop bell
+T	🧳	0	11.0	luggage luggage
+T	⌛	0		time hourglass hourglass done
+T	⏳	0	6.0	time hourglass_flowing_sand hourglass not done
+T	⌚	0		time watch watch
+T	⏰	0	6.0	morning alarm_clock alarm clock
+T	⏱️	0	6.0	stopwatch stopwatch
+T	⏲️	0	6.0	timer_clock timer clock
+T	🕰️	0	7.0	mantelpiece_clock mantelpiece clock
+T	🕛	0	6.0	clock12 twelve o’clock
+T	🕧	0	6.0	clock1230 twelve-thirty
+T	🕐	0	6.0	clock1 one o’clock
+T	🕜	0	6.0	clock130 one-thirty
+T	🕑	0	6.0	clock2 two o’clock
+T	🕝	0	6.0	clock230 two-thirty
+T	🕒	0	6.0	clock3 three o’clock
+T	🕞	0	6.0	clock330 three-thirty
+T	🕓	0	6.0	clock4 four o’clock
+T	🕟	0	6.0	clock430 four-thirty
+T	🕔	0	6.0	clock5 five o’clock
+T	🕠	0	6.0	clock530 five-thirty
+T	🕕	0	6.0	clock6 six o’clock
+T	🕡	0	6.0	clock630 six-thirty
+T	🕖	0	6.0	clock7 seven o’clock
+T	🕢	0	6.0	clock730 seven-thirty
+T	🕗	0	6.0	clock8 eight o’clock
+T	🕣	0	6.0	clock830 eight-thirty
+T	🕘	0	6.0	clock9 nine o’clock
+T	🕤	0	6.0	clock930 nine-thirty
+T	🕙	0	6.0	clock10 ten o’clock
+T	🕥	0	6.0	clock1030 ten-thirty
+T	🕚	0	6.0	clock11 eleven o’clock
+T	🕦	0	6.0	clock1130 eleven-thirty
+T	🌑	0	6.0	new_moon new moon
+T	🌒	0	6.0	waxing_crescent_moon waxing crescent moon
+T	🌓	0	6.0	first_quarter_moon first quarter moon
+T	🌔	0	6.0	moon waxing_gibbous_moon waxing gibbous moon
+T	🌕	0	6.0	full_moon full moon
+T	🌖	0	6.0	waning_gibbous_moon waning gibbous moon
+T	🌗	0	6.0	last_quarter_moon last quarter moon
+T	🌘	0	6.0	waning_crescent_moon waning crescent moon
+T	🌙	0	6.0	night crescent_moon crescent moon
+T	🌚	0	6.0	new_moon_with_face new moon face
+T	🌛	0	6.0	first_quarter_moon_with_face first quarter moon face
+T	🌜	0	6.0	last_quarter_moon_with_face last quarter moon face
+T	🌡️	0	7.0	thermometer thermometer
+T	☀️	0		weather sunny sun
+T	🌝	0	6.0	full_moon_with_face full moon face
+T	🌞	0	6.0	summer sun_with_face sun with face
+T	🪐	0	12.0	ringed_planet ringed planet
+T	⭐	0	5.1	star star
+T	🌟	0	6.0	star2 glowing star
+T	🌠	0	6.0	stars shooting star
+T	🌌	0	6.0	milky_way milky way
+T	☁️	0		cloud cloud
+T	⛅	0	5.2	weather cloud partly_sunny sun behind cloud
+T	⛈️	0	5.2	cloud_with_lightning_and_rain cloud with lightning and rain
+T	🌤️	0	7.0	sun_behind_small_cloud sun behind small cloud
+T	🌥️	0	7.0	sun_behind_large_cloud sun behind large cloud
+T	🌦️	0	7.0	sun_behind_rain_cloud sun behind rain cloud
+T	🌧️	0	7.0	cloud_with_rain cloud with rain
+T	🌨️	0	7.0	cloud_with_snow cloud with snow
+T	🌩️	0	7.0	cloud_with_lightning cloud with lightning
+T	🌪️	0	7.0	tornado tornado
+T	🌫️	0	7.0	fog fog
+T	🌬️	0	7.0	wind_face wind face
+T	🌀	0	6.0	swirl cyclone cyclone
+T	🌈	0	6.0	rainbow rainbow
+T	🌂	0	6.0	weather rain closed_umbrella closed umbrella
+T	☂️	0		open_umbrella umbrella
+T	☔	0	4.0	rain weather umbrella umbrella with rain drops
+T	⛱️	0	5.2	beach_umbrella parasol_on_ground umbrella on ground
+T	⚡	0	4.0	lightning thunder zap high voltage
+T	❄️	0		winter cold weather snowflake snowflake
+T	☃️	0		winter christmas snowman_with_snow snowman
+T	⛄	0	5.2	winter snowman snowman without snow
+T	☄️	0		comet comet
+T	🔥	0	6.0	burn fire fire
+T	💧	0	6.0	water droplet droplet
+T	🌊	0	6.0	sea ocean water wave
+C	🎃	0	6.0	halloween jack_o_lantern jack-o-lantern
+C	🎄	0	6.0	christmas_tree Christmas tree
+C	🎆	0	6.0	festival celebration fireworks fireworks
+C	🎇	0	6.0	sparkler sparkler
+C	🧨	0	11.0	firecracker firecracker
+C	✨	0	6.0	shiny sparkles sparkles
+C	🎈	0	6.0	party birthday balloon balloon
+C	🎉	0	6.0	hooray party tada party popper
+C	🎊	0	6.0	confetti_ball confetti ball
+C	🎋	0	6.0	tanabata_tree tanabata tree
+C	🎍	0	6.0	bamboo pine decoration
+C	🎎	0	6.0	dolls Japanese dolls
+C	🎏	0	6.0	flags carp streamer
+C	🎐	0	6.0	wind_chime wind chime
+C	🎑	0	6.0	rice_scene moon viewing ceremony
+C	🧧	0	11.0	red_envelope red envelope
+C	🎀	0	6.0	ribbon ribbon
+C	🎁	0	6.0	present birthday christmas gift wrapped gift
+C	🎗️	0	7.0	reminder_ribbon reminder ribbon
+C	🎟️	0	7.0	tickets admission tickets
+C	🎫	0	6.0	ticket ticket
+C	🎖️	0	7.0	medal_military military medal
+C	🏆	0	6.0	award contest winner trophy trophy
+C	🏅	0	7.0	gold winner medal_sports sports medal
+C	🥇	0	9.0	gold 1st_place_medal 1st place medal
+C	🥈	0	9.0	silver 2nd_place_medal 2nd place medal
+C	🥉	0	9.0	bronze 3rd_place_medal 3rd place medal
+C	⚽	0	5.2	sports soccer soccer ball
+C	⚾	0	5.2	sports baseball baseball
+C	🥎	0	11.0	softball softball
+C	🏀	0	6.0	sports basketball basketball
+C	🏐	0	8.0	volleyball volleyball
+C	🏈	0	6.0	sports football american football
+C	🏉	0	6.0	rugby_football rugby football
+C	🎾	0	6.0	sports tennis tennis
+C	🥏	0	11.0	flying_disc flying disc
+C	🎳	0	6.0	bowling bowling
+C	🏏	0	8.0	cricket_game cricket game
+C	🏑	0	8.0	field_hockey field hockey
+C	🏒	0	8.0	ice_hockey ice hockey
+C	🥍	0	11.0	lacrosse lacrosse
+C	🏓	0	8.0	ping_pong ping pong
+C	🏸	0	8.0	badminton badminton
+C	🥊	0	9.0	boxing_glove boxing glove
+C	🥋	0	9.0	martial_arts_uniform martial arts uniform
+C	🥅	0	9.0	goal_net goal net
+C	⛳	0	5.2	golf flag in hole
+C	⛸️	0	5.2	skating ice_skate ice skate
+C	🎣	0	6.0	fishing_pole_and_fish fishing pole
+C	🤿	0	12.0	diving_mask diving mask
+C	🎽	0	6.0	marathon running_shirt_with_sash running shirt
+C	🎿	0	6.0	ski skis
+C	🛷	0	11.0	sled sled
+C	🥌	0	11.0	curling_stone curling stone
+C	🎯	0	6.0	target dart bullseye
+C	🪀	0	12.0	yo_yo yo-yo
+C	🪁	0	12.0	kite kite
+C	🔫	0	6.0	shoot weapon gun water pistol
+C	🎱	0	6.0	pool billiards 8ball pool 8 ball
+C	🔮	0	6.0	fortune crystal_ball crystal ball
+C	🪄	0	13.0	magic_wand magic wand
+C	🎮	0	6.0	play controller console video_game video game
+C	🕹️	0	7.0	joystick joystick
+C	🎰	0	6.0	slot_machine slot machine
+C	🎲	0	6.0	dice gambling game_die game die
+C	🧩	0	11.0	jigsaw puzzle piece
+C	🧸	0	11.0	teddy_bear teddy bear
+C	🪅	0	13.0	pinata piñata
+C	🪩	0	14.0	disco party mirror_ball mirror ball
+C	🪆	0	13.0	nesting_dolls nesting dolls
+C	♠️	0		spades spade suit
+C	♥️	0		hearts heart suit
+C	♦️	0		diamonds diamond suit
+C	♣️	0		clubs club suit
+C	♟️	0	11.0	chess_pawn chess pawn
+C	🃏	0	6.0	black_joker joker
+C	🀄	0		mahjong mahjong red dragon
+C	🎴	0	6.0	flower_playing_cards flower playing cards
+C	🎭	0	6.0	theater drama performing_arts performing arts
+C	🖼️	0	7.0	framed_picture framed picture
+C	🎨	0	6.0	design paint art artist palette
+C	🧵	0	11.0	thread thread
+C	🪡	0	13.0	sewing_needle sewing needle
+C	🧶	0	11.0	yarn yarn
+C	🪢	0	13.0	knot knot
+O	👓	0	6.0	glasses eyeglasses glasses
+O	🕶️	0	7.0	dark_sunglasses sunglasses
+O	🥽	0	11.0	goggles goggles
+O	🥼	0	11.0	lab_coat lab coat
+O	🦺	0	12.0	safety_vest safety vest
+O	👔	0	6.0	shirt formal necktie necktie
+O	👕	0	6.0	shirt tshirt t-shirt
+O	👖	0	6.0	pants jeans jeans
+O	🧣	0	11.0	scarf scarf
+O	🧤	0	11.0	gloves gloves
+O	🧥	0	11.0	coat coat
+O	🧦	0	11.0	socks socks
+O	👗	0	6.0	dress dress
+O	👘	0	6.0	kimono kimono
+O	🥻	0	12.0	sari sari
+O	🩱	0	12.0	one_piece_swimsuit one-piece swimsuit
+O	🩲	0	12.0	swim_brief briefs
+O	🩳	0	12.0	shorts shorts
+O	👙	0	6.0	beach bikini bikini
+O	👚	0	6.0	womans_clothes woman’s clothes
+O	🪭	0	15.0	sensu folding_hand_fan folding hand fan
+O	👛	0	6.0	purse purse
+O	👜	0	6.0	bag handbag handbag
+O	👝	0	6.0	bag pouch clutch bag
+O	🛍️	0	7.0	bags shopping shopping bags
+O	🎒	0	6.0	school_satchel backpack
+O	🩴	0	13.0	thong_sandal thong sandal
+O	👞	0	6.0	mans_shoe shoe man’s shoe
+O	👟	0	6.0	sneaker sport running athletic_shoe running shoe
+O	🥾	0	11.0	hiking_boot hiking boot
+O	🥿	0	11.0	flat_shoe flat shoe
+O	👠	0	6.0	shoe high_heel high-heeled shoe
+O	👡	0	6.0	shoe sandal woman’s sandal
+O	🩰	0	12.0	ballet_shoes ballet shoes
+O	👢	0	6.0	boot woman’s boot
+O	🪮	0	15.0	hair_pick hair pick
+O	👑	0	6.0	king queen royal crown crown
+O	👒	0	6.0	womans_hat woman’s hat
+O	🎩	0	6.0	hat classy tophat top hat
+O	🎓	0	6.0	education college university graduation mortar_board graduation cap
+O	🧢	0	11.0	billed_cap billed cap
+O	🪖	0	13.0	military_helmet military helmet
+O	⛑️	0	5.2	rescue_worker_helmet rescue worker’s helmet
+O	📿	0	8.0	prayer_beads prayer beads
+O	💄	0	6.0	makeup lipstick lipstick
+O	💍	0	6.0	wedding marriage engaged ring ring
+O	💎	0	6.0	diamond gem gem stone
+O	🔇	0	6.0	sound volume mute muted speaker
+O	🔈	0	6.0	speaker speaker low volume
+O	🔉	0	6.0	volume sound speaker medium volume
+O	🔊	0	6.0	volume loud_sound speaker high volume
+O	📢	0	6.0	announcement loudspeaker loudspeaker
+O	📣	0	6.0	mega megaphone
+O	📯	0	6.0	postal_horn postal horn
+O	🔔	0	6.0	sound notification bell bell
+O	🔕	0	6.0	volume off no_bell bell with slash
+O	🎼	0	6.0	musical_score musical score
+O	🎵	0	6.0	musical_note musical note
+O	🎶	0	6.0	music notes musical notes
+O	🎙️	0	7.0	podcast studio_microphone studio microphone
+O	🎚️	0	7.0	level_slider level slider
+O	🎛️	0	7.0	control_knobs control knobs
+O	🎤	0	6.0	sing microphone microphone
+O	🎧	0	6.0	music earphones headphones headphone
+O	📻	0	6.0	podcast radio radio
+O	🎷	0	6.0	saxophone saxophone
+O	🪗	0	13.0	accordion accordion
+O	🎸	0	6.0	rock guitar guitar
+O	🎹	0	6.0	piano musical_keyboard musical keyboard
+O	🎺	0	6.0	trumpet trumpet
+O	🎻	0	6.0	violin violin
+O	🪕	0	12.0	banjo banjo
+O	🥁	0		drum drum
+O	🪘	0	13.0	long_drum long drum
+O	🪇	0	15.0	shaker maracas maracas
+O	🪈	0	15.0	recorder flute flute
+O	📱	0	6.0	smartphone mobile iphone mobile phone
+O	📲	0	6.0	call incoming calling mobile phone with arrow
+O	☎️	0		phone telephone telephone
+O	📞	0	6.0	phone call telephone_receiver telephone receiver
+O	📟	0	6.0	pager pager
+O	📠	0	6.0	fax fax machine
+O	🔋	0	6.0	power battery battery
+O	🪫	0	14.0	low_battery low battery
+O	🔌	0	6.0	electric_plug electric plug
+O	💻	0	6.0	desktop screen computer laptop
+O	🖥️	0	7.0	desktop_computer desktop computer
+O	🖨️	0	7.0	printer printer
+O	⌨️	0		keyboard keyboard
+O	🖱️	0	7.0	computer_mouse computer mouse
+O	🖲️	0	7.0	trackball trackball
+O	💽	0	6.0	minidisc computer disk
+O	💾	0	6.0	save floppy_disk floppy disk
+O	💿	0	6.0	cd optical disk
+O	📀	0	6.0	dvd dvd
+O	🧮	0	11.0	abacus abacus
+O	🎥	0	6.0	film video movie_camera movie camera
+O	🎞️	0	7.0	film_strip film frames
+O	📽️	0	7.0	film_projector film projector
+O	🎬	0	6.0	film clapper clapper board
+O	📺	0	6.0	tv television
+O	📷	0	6.0	photo camera camera
+O	📸	0	7.0	photo camera_flash camera with flash
+O	📹	0	6.0	video_camera video camera
+O	📼	0	6.0	vhs videocassette
+O	🔍	0	6.0	search zoom mag magnifying glass tilted left
+O	🔎	0	6.0	mag_right magnifying glass tilted right
+O	🕯️	0	7.0	candle candle
+O	💡	0	6.0	idea light bulb light bulb
+O	🔦	0	6.0	flashlight flashlight
+O	🏮	0	6.0	izakaya_lantern lantern red paper lantern
+O	🪔	0	12.0	diya_lamp diya lamp
+O	📔	0	6.0	notebook_with_decorative_cover notebook with decorative cover
+O	📕	0	6.0	closed_book closed book
+O	📖	0	6.0	book open_book open book
+O	📗	0	6.0	green_book green book
+O	📘	0	6.0	blue_book blue book
+O	📙	0	6.0	orange_book orange book
+O	📚	0	6.0	library books books
+O	📓	0	6.0	notebook notebook
+O	📒	0	6.0	ledger ledger
+O	📃	0	6.0	page_with_curl page with curl
+O	📜	0	6.0	document scroll scroll
+O	📄	0	6.0	document page_facing_up page facing up
+O	📰	0	6.0	press newspaper newspaper
+O	🗞️	0	7.0	press newspaper_roll rolled-up newspaper
+O	📑	0	6.0	bookmark_tabs bookmark tabs
+O	🔖	0	6.0	bookmark bookmark
+O	🏷️	0	7.0	tag label label
+O	💰	0	6.0	dollar cream moneybag money bag
+O	🪙	0	13.0	coin coin
+O	💴	0	6.0	yen yen banknote
+O	💵	0	6.0	money dollar dollar banknote
+O	💶	0	6.0	euro euro banknote
+O	💷	0	6.0	pound pound banknote
+O	💸	0	6.0	dollar money_with_wings money with wings
+O	💳	0	6.0	subscription credit_card credit card
+O	🧾	0	11.0	receipt receipt
+O	💹	0	6.0	chart chart increasing with yen
+O	✉️	0		letter email envelope envelope
+O	📧	0	6.0	email e-mail e-mail
+O	📨	0	6.0	incoming_envelope incoming envelope
+O	📩	0	6.0	envelope_with_arrow envelope with arrow
+O	📤	0	6.0	outbox_tray outbox tray
+O	📥	0	6.0	inbox_tray inbox tray
+O	📦	0	6.0	shipping package package
+O	📫	0	6.0	mailbox closed mailbox with raised flag
+O	📪	0	6.0	mailbox_closed closed mailbox with lowered flag
+O	📬	0	6.0	mailbox_with_mail open mailbox with raised flag
+O	📭	0	6.0	mailbox_with_no_mail open mailbox with lowered flag
+O	📮	0	6.0	postbox postbox
+O	🗳️	0	7.0	ballot_box ballot box with ballot
+O	✏️	0		pencil2 pencil
+O	✒️	0		black_nib black nib
+O	🖋️	0	7.0	fountain_pen fountain pen
+O	🖊️	0	7.0	pen pen
+O	🖌️	0	7.0	paintbrush paintbrush
+O	🖍️	0	7.0	crayon crayon
+O	📝	0	6.0	document note memo pencil memo
+O	💼	0	6.0	business briefcase briefcase
+O	📁	0	6.0	directory file_folder file folder
+O	📂	0	6.0	open_file_folder open file folder
+O	🗂️	0	7.0	card_index_dividers card index dividers
+O	📅	0	6.0	calendar schedule date calendar
+O	📆	0	6.0	schedule calendar tear-off calendar
+O	🗒️	0	7.0	spiral_notepad spiral notepad
+O	🗓️	0	7.0	spiral_calendar spiral calendar
+O	📇	0	6.0	card_index card index
+O	📈	0	6.0	graph metrics chart_with_upwards_trend chart increasing
+O	📉	0	6.0	graph metrics chart_with_downwards_trend chart decreasing
+O	📊	0	6.0	stats metrics bar_chart bar chart
+O	📋	0	6.0	clipboard clipboard
+O	📌	0	6.0	location pushpin pushpin
+O	📍	0	6.0	location round_pushpin round pushpin
+O	📎	0	6.0	paperclip paperclip
+O	🖇️	0	7.0	paperclips linked paperclips
+O	📏	0	6.0	straight_ruler straight ruler
+O	📐	0	6.0	triangular_ruler triangular ruler
+O	✂️	0		cut scissors scissors
+O	🗃️	0	7.0	card_file_box card file box
+O	🗄️	0	7.0	file_cabinet file cabinet
+O	🗑️	0	7.0	trash wastebasket wastebasket
+O	🔒	0	6.0	security private lock locked
+O	🔓	0	6.0	security unlock unlocked
+O	🔏	0	6.0	lock_with_ink_pen locked with pen
+O	🔐	0	6.0	security closed_lock_with_key locked with key
+O	🔑	0	6.0	lock password key key
+O	🗝️	0	7.0	old_key old key
+O	🔨	0	6.0	tool hammer hammer
+O	🪓	0	12.0	axe axe
+O	⛏️	0	5.2	pick pick
+O	⚒️	0	4.1	hammer_and_pick hammer and pick
+O	🛠️	0	7.0	hammer_and_wrench hammer and wrench
+O	🗡️	0	7.0	dagger dagger
+O	⚔️	0	4.1	crossed_swords crossed swords
+O	💣	0	6.0	boom bomb bomb
+O	🪃	0	13.0	boomerang boomerang
+O	🏹	0	8.0	archery bow_and_arrow bow and arrow
+O	🛡️	0	7.0	shield shield
+O	🪚	0	13.0	carpentry_saw carpentry saw
+O	🔧	0	6.0	tool wrench wrench
+O	🪛	0	13.0	screwdriver screwdriver
+O	🔩	0	6.0	nut_and_bolt nut and bolt
+O	⚙️	0	4.1	gear gear
+O	🗜️	0	7.0	clamp clamp
+O	⚖️	0	4.1	balance_scale balance scale
+O	🦯	0	12.0	probing_cane white cane
+O	🔗	0	6.0	link link
+O	⛓️	0	5.2	chains chains
+O	🪝	0	13.0	hook hook
+O	🧰	0	11.0	toolbox toolbox
+O	🧲	0	11.0	magnet magnet
+O	🪜	0	13.0	ladder ladder
+O	⚗️	0	4.1	alembic alembic
+O	🧪	0	11.0	test_tube test tube
+O	🧫	0	11.0	petri_dish petri dish
+O	🧬	0	11.0	dna dna
+O	🔬	0	6.0	science laboratory investigate microscope microscope
+O	🔭	0	6.0	telescope telescope
+O	📡	0	6.0	signal satellite satellite antenna
+O	💉	0	6.0	health hospital needle syringe syringe
+O	🩸	0	12.0	drop_of_blood drop of blood
+O	💊	0	6.0	health medicine pill pill
+O	🩹	0	12.0	adhesive_bandage adhesive bandage
+O	🩼	0	14.0	crutch crutch
+O	🩺	0	12.0	stethoscope stethoscope
+O	🩻	0	14.0	x_ray x-ray
+O	🚪	0	6.0	door door
+O	🛗	0	13.0	elevator elevator
+O	🪞	0	13.0	mirror mirror
+O	🪟	0	13.0	window window
+O	🛏️	0	7.0	bed bed
+O	🛋️	0	7.0	couch_and_lamp couch and lamp
+O	🪑	0	12.0	chair chair
+O	🚽	0	6.0	wc toilet toilet
+O	🪠	0	13.0	plunger plunger
+O	🚿	0	6.0	bath shower shower
+O	🛁	0	6.0	bathtub bathtub
+O	🪤	0	13.0	mouse_trap mouse trap
+O	🪒	0	12.0	razor razor
+O	🧴	0	11.0	lotion_bottle lotion bottle
+O	🧷	0	11.0	safety_pin safety pin
+O	🧹	0	11.0	broom broom
+O	🧺	0	11.0	basket basket
+O	🧻	0	11.0	toilet roll_of_paper roll of paper
+O	🪣	0	13.0	bucket bucket
+O	🧼	0	11.0	soap soap
+O	🫧	0	14.0	bubbles bubbles
+O	🪥	0	13.0	toothbrush toothbrush
+O	🧽	0	11.0	sponge sponge
+O	🧯	0	11.0	fire_extinguisher fire extinguisher
+O	🛒	0	9.0	shopping_cart shopping cart
+O	🚬	0	6.0	cigarette smoking cigarette
+O	⚰️	0	4.1	funeral coffin coffin
+O	🪦	0	13.0	headstone headstone
+O	⚱️	0	4.1	funeral_urn funeral urn
+O	🧿	0	11.0	nazar_amulet nazar amulet
+O	🪬	0	14.0	hamsa hamsa
+O	🗿	0	6.0	stone moyai moai
+O	🪧	0	13.0	placard placard
+O	🪪	0	14.0	identification_card identification card
+Y	🏧	0	6.0	atm ATM sign
+Y	🚮	0	6.0	put_litter_in_its_place litter in bin sign
+Y	🚰	0	6.0	potable_water potable water
+Y	♿	0	4.1	accessibility wheelchair wheelchair symbol
+Y	🚹	0	6.0	mens men’s room
+Y	🚺	0	6.0	womens women’s room
+Y	🚻	0	6.0	toilet restroom restroom
+Y	🚼	0	6.0	baby_symbol baby symbol
+Y	🚾	0	6.0	toilet restroom wc water closet
+Y	🛂	0	6.0	passport_control passport control
+Y	🛃	0	6.0	customs customs
+Y	🛄	0	6.0	airport baggage_claim baggage claim
+Y	🛅	0	6.0	left_luggage left luggage
+Y	⚠️	0	4.0	wip warning warning
+Y	🚸	0	6.0	children_crossing children crossing
+Y	⛔	0	5.2	limit no_entry no entry
+Y	🚫	0	6.0	block forbidden no_entry_sign prohibited
+Y	🚳	0	6.0	no_bicycles no bicycles
+Y	🚭	0	6.0	no_smoking no smoking
+Y	🚯	0	6.0	do_not_litter no littering
+Y	🚱	0	6.0	non-potable_water non-potable water
+Y	🚷	0	6.0	no_pedestrians no pedestrians
+Y	📵	0	6.0	no_mobile_phones no mobile phones
+Y	🔞	0	6.0	underage no one under eighteen
+Y	☢️	0		radioactive radioactive
+Y	☣️	0		biohazard biohazard
+Y	⬆️	0	4.0	arrow_up up arrow
+Y	↗️	0		arrow_upper_right up-right arrow
+Y	➡️	0		arrow_right right arrow
+Y	↘️	0		arrow_lower_right down-right arrow
+Y	⬇️	0	4.0	arrow_down down arrow
+Y	↙️	0		arrow_lower_left down-left arrow
+Y	⬅️	0	4.0	arrow_left left arrow
+Y	↖️	0		arrow_upper_left up-left arrow
+Y	↕️	0		arrow_up_down up-down arrow
+Y	↔️	0		left_right_arrow left-right arrow
+Y	↩️	0		return leftwards_arrow_with_hook right arrow curving left
+Y	↪️	0		arrow_right_hook left arrow curving right
+Y	⤴️	0		arrow_heading_up right arrow curving up
+Y	⤵️	0		arrow_heading_down right arrow curving down
+Y	🔃	0	6.0	arrows_clockwise clockwise vertical arrows
+Y	🔄	0	6.0	sync arrows_counterclockwise counterclockwise arrows button
+Y	🔙	0	6.0	back BACK arrow
+Y	🔚	0	6.0	end END arrow
+Y	🔛	0	6.0	on ON! arrow
+Y	🔜	0	6.0	soon SOON arrow
+Y	🔝	0	6.0	top TOP arrow
+Y	🛐	0	8.0	place_of_worship place of worship
+Y	⚛️	0	4.1	atom_symbol atom symbol
+Y	🕉️	0	7.0	om om
+Y	✡️	0		star_of_david star of David
+Y	☸️	0		wheel_of_dharma wheel of dharma
+Y	☯️	0		yin_yang yin yang
+Y	✝️	0		latin_cross latin cross
+Y	☦️	0		orthodox_cross orthodox cross
+Y	☪️	0		star_and_crescent star and crescent
+Y	☮️	0		peace_symbol peace symbol
+Y	🕎	0	8.0	menorah menorah
+Y	🔯	0	6.0	six_pointed_star dotted six-pointed star
+Y	🪯	0	15.0	khanda khanda
+Y	♈	0		aries Aries
+Y	♉	0		taurus Taurus
+Y	♊	0		gemini Gemini
+Y	♋	0		cancer Cancer
+Y	♌	0		leo Leo
+Y	♍	0		virgo Virgo
+Y	♎	0		libra Libra
+Y	♏	0		scorpius Scorpio
+Y	♐	0		sagittarius Sagittarius
+Y	♑	0		capricorn Capricorn
+Y	♒	0		aquarius Aquarius
+Y	♓	0		pisces Pisces
+Y	⛎	0	6.0	ophiuchus Ophiuchus
+Y	🔀	0	6.0	shuffle twisted_rightwards_arrows shuffle tracks button
+Y	🔁	0	6.0	loop repeat repeat button
+Y	🔂	0	6.0	repeat_one repeat single button
+Y	▶️	0		arrow_forward play button
+Y	⏩	0	6.0	fast_forward fast-forward button
+Y	⏭️	0	6.0	next_track_button next track button
+Y	⏯️	0	6.0	play_or_pause_button play or pause button
+Y	◀️	0		arrow_backward reverse button
+Y	⏪	0	6.0	rewind fast reverse button
+Y	⏮️	0	6.0	previous_track_button last track button
+Y	🔼	0	6.0	arrow_up_small upwards button
+Y	⏫	0	6.0	arrow_double_up fast up button
+Y	🔽	0	6.0	arrow_down_small downwards button
+Y	⏬	0	6.0	arrow_double_down fast down button
+Y	⏸️	0	7.0	pause_button pause button
+Y	⏹️	0	7.0	stop_button stop button
+Y	⏺️	0	7.0	record_button record button
+Y	⏏️	0	11.0	eject_button eject button
+Y	🎦	0	6.0	film movie cinema cinema
+Y	🔅	0	6.0	low_brightness dim button
+Y	🔆	0	6.0	high_brightness bright button
+Y	📶	0	6.0	wifi signal_strength antenna bars
+Y	🛜	0	15.0	wifi wireless wireless
+Y	📳	0	6.0	vibration_mode vibration mode
+Y	📴	0	6.0	mute off mobile_phone_off mobile phone off
+Y	♀️	0	11.0	female_sign female sign
+Y	♂️	0	11.0	male_sign male sign
+Y	⚧️	0	13.0	transgender_symbol transgender symbol
+Y	✖️	0		heavy_multiplication_x multiply
+Y	➕	0	6.0	heavy_plus_sign plus
+Y	➖	0	6.0	heavy_minus_sign minus
+Y	➗	0	6.0	heavy_division_sign divide
+Y	🟰	0	14.0	heavy_equals_sign heavy equals sign
+Y	♾️	0	11.0	infinity infinity
+Y	‼️	0		bangbang double exclamation mark
+Y	⁉️	0	3.0	interrobang exclamation question mark
+Y	❓	0	6.0	confused question red question mark
+Y	❔	0	6.0	grey_question white question mark
+Y	❕	0	6.0	grey_exclamation white exclamation mark
+Y	❗	0	5.2	bang exclamation heavy_exclamation_mark red exclamation mark
+Y	〰️	0		wavy_dash wavy dash
+Y	💱	0	6.0	currency_exchange currency exchange
+Y	💲	0	6.0	heavy_dollar_sign heavy dollar sign
+Y	⚕️	0	11.0	medical_symbol medical symbol
+Y	♻️	0	3.2	environment green recycle recycling symbol
+Y	⚜️	0	4.1	fleur_de_lis fleur-de-lis
+Y	🔱	0	6.0	trident trident emblem
+Y	📛	0	6.0	name_badge name badge
+Y	🔰	0	6.0	beginner Japanese symbol for beginner
+Y	⭕	0	5.2	o hollow red circle
+Y	✅	0	6.0	white_check_mark check mark button
+Y	☑️	0		ballot_box_with_check check box with check
+Y	✔️	0		heavy_check_mark check mark
+Y	❌	0	6.0	x cross mark
+Y	❎	0	6.0	negative_squared_cross_mark cross mark button
+Y	➰	0	6.0	curly_loop curly loop
+Y	➿	0	6.0	loop double curly loop
+Y	〽️	0	3.2	part_alternation_mark part alternation mark
+Y	✳️	0		eight_spoked_asterisk eight-spoked asterisk
+Y	✴️	0		eight_pointed_black_star eight-pointed star
+Y	❇️	0		sparkle sparkle
+Y	©️	0		copyright copyright
+Y	®️	0		registered registered
+Y	™️	0		trademark tm trade mark
+Y	#️⃣	0		number hash keycap: #
+Y	*️⃣	0		asterisk keycap: *
+Y	0️⃣	0		zero keycap: 0
+Y	1️⃣	0		one keycap: 1
+Y	2️⃣	0		two keycap: 2
+Y	3️⃣	0		three keycap: 3
+Y	4️⃣	0		four keycap: 4
+Y	5️⃣	0		five keycap: 5
+Y	6️⃣	0		six keycap: 6
+Y	7️⃣	0		seven keycap: 7
+Y	8️⃣	0		eight keycap: 8
+Y	9️⃣	0		nine keycap: 9
+Y	🔟	0	6.0	keycap_ten keycap: 10
+Y	🔠	0	6.0	letters capital_abcd input latin uppercase
+Y	🔡	0	6.0	abcd input latin lowercase
+Y	🔢	0	6.0	numbers 1234 input numbers
+Y	🔣	0	6.0	symbols input symbols
+Y	🔤	0	6.0	alphabet abc input latin letters
+Y	🅰️	0	6.0	a A button (blood type)
+Y	🆎	0	6.0	ab AB button (blood type)
+Y	🅱️	0	6.0	b B button (blood type)
+Y	🆑	0	6.0	cl CL button
+Y	🆒	0	6.0	cool COOL button
+Y	🆓	0	6.0	free FREE button
+Y	ℹ️	0	3.0	information_source information
+Y	🆔	0	6.0	id ID button
+Y	Ⓜ️	0		m circled M
+Y	🆕	0	6.0	fresh new NEW button
+Y	🆖	0	6.0	ng NG button
+Y	🅾️	0	6.0	o2 O button (blood type)
+Y	🆗	0	6.0	yes ok OK button
+Y	🅿️	0	5.2	parking P button
+Y	🆘	0	6.0	help emergency sos SOS button
+Y	🆙	0	6.0	up UP! button
+Y	🆚	0	6.0	vs VS button
+Y	🈁	0	6.0	koko Japanese “here” button
+Y	🈂️	0	6.0	sa Japanese “service charge” button
+Y	🈷️	0	6.0	u6708 Japanese “monthly amount” button
+Y	🈶	0	6.0	u6709 Japanese “not free of charge” button
+Y	🈯	0		u6307 Japanese “reserved” button
+Y	🉐	0	6.0	ideograph_advantage Japanese “bargain” button
+Y	🈹	0	6.0	u5272 Japanese “discount” button
+Y	🈚	0		u7121 Japanese “free of charge” button
+Y	🈲	0	6.0	u7981 Japanese “prohibited” button
+Y	🉑	0	6.0	accept Japanese “acceptable” button
+Y	🈸	0	6.0	u7533 Japanese “application” button
+Y	🈴	0	6.0	u5408 Japanese “passing grade” button
+Y	🈳	0	6.0	u7a7a Japanese “vacancy” button
+Y	㊗️	0		congratulations Japanese “congratulations” button
+Y	㊙️	0		secret Japanese “secret” button
+Y	🈺	0	6.0	u55b6 Japanese “open for business” button
+Y	🈵	0	6.0	u6e80 Japanese “no vacancy” button
+Y	🔴	0	6.0	red_circle red circle
+Y	🟠	0	12.0	orange_circle orange circle
+Y	🟡	0	12.0	yellow_circle yellow circle
+Y	🟢	0	12.0	green_circle green circle
+Y	🔵	0	6.0	large_blue_circle blue circle
+Y	🟣	0	12.0	purple_circle purple circle
+Y	🟤	0	12.0	brown_circle brown circle
+Y	⚫	0	4.1	black_circle black circle
+Y	⚪	0	4.1	white_circle white circle
+Y	🟥	0	12.0	red_square red square
+Y	🟧	0	12.0	orange_square orange square
+Y	🟨	0	12.0	yellow_square yellow square
+Y	🟩	0	12.0	green_square green square
+Y	🟦	0	12.0	blue_square blue square
+Y	🟪	0	12.0	purple_square purple square
+Y	🟫	0	12.0	brown_square brown square
+Y	⬛	0	5.1	black_large_square black large square
+Y	⬜	0	5.1	white_large_square white large square
+Y	◼️	0	3.2	black_medium_square black medium square
+Y	◻️	0	3.2	white_medium_square white medium square
+Y	◾	0	3.2	black_medium_small_square black medium-small square
+Y	◽	0	3.2	white_medium_small_square white medium-small square
+Y	▪️	0		black_small_square black small square
+Y	▫️	0		white_small_square white small square
+Y	🔶	0	6.0	large_orange_diamond large orange diamond
+Y	🔷	0	6.0	large_blue_diamond large blue diamond
+Y	🔸	0	6.0	small_orange_diamond small orange diamond
+Y	🔹	0	6.0	small_blue_diamond small blue diamond
+Y	🔺	0	6.0	small_red_triangle red triangle pointed up
+Y	🔻	0	6.0	small_red_triangle_down red triangle pointed down
+Y	💠	0	6.0	diamond_shape_with_a_dot_inside diamond with a dot
+Y	🔘	0	6.0	radio_button radio button
+Y	🔳	0	6.0	white_square_button white square button
+Y	🔲	0	6.0	black_square_button black square button
+G	🏁	0	6.0	milestone finish checkered_flag chequered flag
+G	🚩	0	6.0	triangular_flag_on_post triangular flag
+G	🎌	0	6.0	crossed_flags crossed flags
+G	🏴	0	7.0	black_flag black flag
+G	🏳️	0	7.0	white_flag white flag
+G	🏳️‍🌈	0	6.0	pride rainbow_flag rainbow flag
+G	🏳️‍⚧️	0	13.0	transgender_flag transgender flag
+G	🏴‍☠️	0	11.0	pirate_flag pirate flag
+G	🇦🇨	0	11.0	ascension_island flag: Ascension Island
+G	🇦🇩	0	6.0	andorra flag: Andorra
+G	🇦🇪	0	6.0	united_arab_emirates flag: United Arab Emirates
+G	🇦🇫	0	6.0	afghanistan flag: Afghanistan
+G	🇦🇬	0	6.0	antigua_barbuda flag: Antigua & Barbuda
+G	🇦🇮	0	6.0	anguilla flag: Anguilla
+G	🇦🇱	0	6.0	albania flag: Albania
+G	🇦🇲	0	6.0	armenia flag: Armenia
+G	🇦🇴	0	6.0	angola flag: Angola
+G	🇦🇶	0	6.0	antarctica flag: Antarctica
+G	🇦🇷	0	6.0	argentina flag: Argentina
+G	🇦🇸	0	6.0	american_samoa flag: American Samoa
+G	🇦🇹	0	6.0	austria flag: Austria
+G	🇦🇺	0	6.0	australia flag: Australia
+G	🇦🇼	0	6.0	aruba flag: Aruba
+G	🇦🇽	0	6.0	aland_islands flag: Åland Islands
+G	🇦🇿	0	6.0	azerbaijan flag: Azerbaijan
+G	🇧🇦	0	6.0	bosnia_herzegovina flag: Bosnia & Herzegovina
+G	🇧🇧	0	6.0	barbados flag: Barbados
+G	🇧🇩	0	6.0	bangladesh flag: Bangladesh
+G	🇧🇪	0	6.0	belgium flag: Belgium
+G	🇧🇫	0	6.0	burkina_faso flag: Burkina Faso
+G	🇧🇬	0	6.0	bulgaria flag: Bulgaria
+G	🇧🇭	0	6.0	bahrain flag: Bahrain
+G	🇧🇮	0	6.0	burundi flag: Burundi
+G	🇧🇯	0	6.0	benin flag: Benin
+G	🇧🇱	0	6.0	st_barthelemy flag: St. Barthélemy
+G	🇧🇲	0	6.0	bermuda flag: Bermuda
+G	🇧🇳	0	6.0	brunei flag: Brunei
+G	🇧🇴	0	6.0	bolivia flag: Bolivia
+G	🇧🇶	0	6.0	caribbean_netherlands flag: Caribbean Netherlands
+G	🇧🇷	0	6.0	brazil flag: Brazil
+G	🇧🇸	0	6.0	bahamas flag: Bahamas
+G	🇧🇹	0	6.0	bhutan flag: Bhutan
+G	🇧🇻	0	11.0	bouvet_island flag: Bouvet Island
+G	🇧🇼	0	6.0	botswana flag: Botswana
+G	🇧🇾	0	6.0	belarus flag: Belarus
+G	🇧🇿	0	6.0	belize flag: Belize
+G	🇨🇦	0	6.0	canada flag: Canada
+G	🇨🇨	0	6.0	keeling cocos_islands flag: Cocos (Keeling) Islands
+G	🇨🇩	0	6.0	congo_kinshasa flag: Congo - Kinshasa
+G	🇨🇫	0	6.0	central_african_republic flag: Central African Republic
+G	🇨🇬	0	6.0	congo_brazzaville flag: Congo - Brazzaville
+G	🇨🇭	0	6.0	switzerland flag: Switzerland
+G	🇨🇮	0	6.0	ivory cote_divoire flag: Côte d’Ivoire
+G	🇨🇰	0	6.0	cook_islands flag: Cook Islands
+G	🇨🇱	0	6.0	chile flag: Chile
+G	🇨🇲	0	6.0	cameroon flag: Cameroon
+G	🇨🇳	0	6.0	china cn flag: China
+G	🇨🇴	0	6.0	colombia flag: Colombia
+G	🇨🇵	0	11.0	clipperton_island flag: Clipperton Island
+G	🇨🇷	0	6.0	costa_rica flag: Costa Rica
+G	🇨🇺	0	6.0	cuba flag: Cuba
+G	🇨🇻	0	6.0	cape_verde flag: Cape Verde
+G	🇨🇼	0	6.0	curacao flag: Curaçao
+G	🇨🇽	0	6.0	christmas_island flag: Christmas Island
+G	🇨🇾	0	6.0	cyprus flag: Cyprus
+G	🇨🇿	0	6.0	czech_republic flag: Czechia
+G	🇩🇪	0	6.0	flag germany de flag: Germany
+G	🇩🇬	0	11.0	diego_garcia flag: Diego Garcia
+G	🇩🇯	0	6.0	djibouti flag: Djibouti
+G	🇩🇰	0	6.0	denmark flag: Denmark
+G	🇩🇲	0	6.0	dominica flag: Dominica
+G	🇩🇴	0	6.0	dominican_republic flag: Dominican Republic
+G	🇩🇿	0	6.0	algeria flag: Algeria
+G	🇪🇦	0	11.0	ceuta_melilla flag: Ceuta & Melilla
+G	🇪🇨	0	6.0	ecuador flag: Ecuador
+G	🇪🇪	0	6.0	estonia flag: Estonia
+G	🇪🇬	0	6.0	egypt flag: Egypt
+G	🇪🇭	0	6.0	western_sahara flag: Western Sahara
+G	🇪🇷	0	6.0	eritrea flag: Eritrea
+G	🇪🇸	0	6.0	spain es flag: Spain
+G	🇪🇹	0	6.0	ethiopia flag: Ethiopia
+G	🇪🇺	0	6.0	eu european_union flag: European Union
+G	🇫🇮	0	6.0	finland flag: Finland
+G	🇫🇯	0	6.0	fiji flag: Fiji
+G	🇫🇰	0	6.0	falkland_islands flag: Falkland Islands
+G	🇫🇲	0	6.0	micronesia flag: Micronesia
+G	🇫🇴	0	6.0	faroe_islands flag: Faroe Islands
+G	🇫🇷	0	6.0	france french fr flag: France
+G	🇬🇦	0	6.0	gabon flag: Gabon
+G	🇬🇧	0	6.0	flag british gb uk flag: United Kingdom
+G	🇬🇩	0	6.0	grenada flag: Grenada
+G	🇬🇪	0	6.0	georgia flag: Georgia
+G	🇬🇫	0	6.0	french_guiana flag: French Guiana
+G	🇬🇬	0	6.0	guernsey flag: Guernsey
+G	🇬🇭	0	6.0	ghana flag: Ghana
+G	🇬🇮	0	6.0	gibraltar flag: Gibraltar
+G	🇬🇱	0	6.0	greenland flag: Greenland
+G	🇬🇲	0	6.0	gambia flag: Gambia
+G	🇬🇳	0	6.0	guinea flag: Guinea
+G	🇬🇵	0	6.0	guadeloupe flag: Guadeloupe
+G	🇬🇶	0	6.0	equatorial_guinea flag: Equatorial Guinea
+G	🇬🇷	0	6.0	greece flag: Greece
+G	🇬🇸	0	6.0	south_georgia_south_sandwich_islands flag: South Georgia & South Sandwich Islands
+G	🇬🇹	0	6.0	guatemala flag: Guatemala
+G	🇬🇺	0	6.0	guam flag: Guam
+G	🇬🇼	0	6.0	guinea_bissau flag: Guinea-Bissau
+G	🇬🇾	0	6.0	guyana flag: Guyana
+G	🇭🇰	0	6.0	hong_kong flag: Hong Kong SAR China
+G	🇭🇲	0	11.0	heard_mcdonald_islands flag: Heard & McDonald Islands
+G	🇭🇳	0	6.0	honduras flag: Honduras
+G	🇭🇷	0	6.0	croatia flag: Croatia
+G	🇭🇹	0	6.0	haiti flag: Haiti
+G	🇭🇺	0	6.0	hungary flag: Hungary
+G	🇮🇨	0	6.0	canary_islands flag: Canary Islands
+G	🇮🇩	0	6.0	indonesia flag: Indonesia
+G	🇮🇪	0	6.0	ireland flag: Ireland
+G	🇮🇱	0	6.0	israel flag: Israel
+G	🇮🇲	0	6.0	isle_of_man flag: Isle of Man
+G	🇮🇳	0	6.0	india flag: India
+G	🇮🇴	0	6.0	british_indian_ocean_territory flag: British Indian Ocean Territory
+G	🇮🇶	0	6.0	iraq flag: Iraq
+G	🇮🇷	0	6.0	iran flag: Iran
+G	🇮🇸	0	6.0	iceland flag: Iceland
+G	🇮🇹	0	6.0	italy it flag: Italy
+G	🇯🇪	0	6.0	jersey flag: Jersey
+G	🇯🇲	0	6.0	jamaica flag: Jamaica
+G	🇯🇴	0	6.0	jordan flag: Jordan
+G	🇯🇵	0	6.0	japan jp flag: Japan
+G	🇰🇪	0	6.0	kenya flag: Kenya
+G	🇰🇬	0	6.0	kyrgyzstan flag: Kyrgyzstan
+G	🇰🇭	0	6.0	cambodia flag: Cambodia
+G	🇰🇮	0	6.0	kiribati flag: Kiribati
+G	🇰🇲	0	6.0	comoros flag: Comoros
+G	🇰🇳	0	6.0	st_kitts_nevis flag: St. Kitts & Nevis
+G	🇰🇵	0	6.0	north_korea flag: North Korea
+G	🇰🇷	0	6.0	korea kr flag: South Korea
+G	🇰🇼	0	6.0	kuwait flag: Kuwait
+G	🇰🇾	0	6.0	cayman_islands flag: Cayman Islands
+G	🇰🇿	0	6.0	kazakhstan flag: Kazakhstan
+G	🇱🇦	0	6.0	laos flag: Laos
+G	🇱🇧	0	6.0	lebanon flag: Lebanon
+G	🇱🇨	0	6.0	st_lucia flag: St. Lucia
+G	🇱🇮	0	6.0	liechtenstein flag: Liechtenstein
+G	🇱🇰	0	6.0	sri_lanka flag: Sri Lanka
+G	🇱🇷	0	6.0	liberia flag: Liberia
+G	🇱🇸	0	6.0	lesotho flag: Lesotho
+G	🇱🇹	0	6.0	lithuania flag: Lithuania
+G	🇱🇺	0	6.0	luxembourg flag: Luxembourg
+G	🇱🇻	0	6.0	latvia flag: Latvia
+G	🇱🇾	0	6.0	libya flag: Libya
+G	🇲🇦	0	6.0	morocco flag: Morocco
+G	🇲🇨	0	6.0	monaco flag: Monaco
+G	🇲🇩	0	6.0	moldova flag: Moldova
+G	🇲🇪	0	6.0	montenegro flag: Montenegro
+G	🇲🇫	0	11.0	st_martin flag: St. Martin
+G	🇲🇬	0	6.0	madagascar flag: Madagascar
+G	🇲🇭	0	6.0	marshall_islands flag: Marshall Islands
+G	🇲🇰	0	6.0	macedonia flag: North Macedonia
+G	🇲🇱	0	6.0	mali flag: Mali
+G	🇲🇲	0	6.0	burma myanmar flag: Myanmar (Burma)
+G	🇲🇳	0	6.0	mongolia flag: Mongolia
+G	🇲🇴	0	6.0	macau flag: Macao SAR China
+G	🇲🇵	0	6.0	northern_mariana_islands flag: Northern Mariana Islands
+G	🇲🇶	0	6.0	martinique flag: Martinique
+G	🇲🇷	0	6.0	mauritania flag: Mauritania
+G	🇲🇸	0	6.0	montserrat flag: Montserrat
+G	🇲🇹	0	6.0	malta flag: Malta
+G	🇲🇺	0	6.0	mauritius flag: Mauritius
+G	🇲🇻	0	6.0	maldives flag: Maldives
+G	🇲🇼	0	6.0	malawi flag: Malawi
+G	🇲🇽	0	6.0	mexico flag: Mexico
+G	🇲🇾	0	6.0	malaysia flag: Malaysia
+G	🇲🇿	0	6.0	mozambique flag: Mozambique
+G	🇳🇦	0	6.0	namibia flag: Namibia
+G	🇳🇨	0	6.0	new_caledonia flag: New Caledonia
+G	🇳🇪	0	6.0	niger flag: Niger
+G	🇳🇫	0	6.0	norfolk_island flag: Norfolk Island
+G	🇳🇬	0	6.0	nigeria flag: Nigeria
+G	🇳🇮	0	6.0	nicaragua flag: Nicaragua
+G	🇳🇱	0	6.0	netherlands flag: Netherlands
+G	🇳🇴	0	6.0	norway flag: Norway
+G	🇳🇵	0	6.0	nepal flag: Nepal
+G	🇳🇷	0	6.0	nauru flag: Nauru
+G	🇳🇺	0	6.0	niue flag: Niue
+G	🇳🇿	0	6.0	new_zealand flag: New Zealand
+G	🇴🇲	0	6.0	oman flag: Oman
+G	🇵🇦	0	6.0	panama flag: Panama
+G	🇵🇪	0	6.0	peru flag: Peru
+G	🇵🇫	0	6.0	french_polynesia flag: French Polynesia
+G	🇵🇬	0	6.0	papua_new_guinea flag: Papua New Guinea
+G	🇵🇭	0	6.0	philippines flag: Philippines
+G	🇵🇰	0	6.0	pakistan flag: Pakistan
+G	🇵🇱	0	6.0	poland flag: Poland
+G	🇵🇲	0	6.0	st_pierre_miquelon flag: St. Pierre & Miquelon
+G	🇵🇳	0	6.0	pitcairn_islands flag: Pitcairn Islands
+G	🇵🇷	0	6.0	puerto_rico flag: Puerto Rico
+G	🇵🇸	0	6.0	palestinian_territories flag: Palestinian Territories
+G	🇵🇹	0	6.0	portugal flag: Portugal
+G	🇵🇼	0	6.0	palau flag: Palau
+G	🇵🇾	0	6.0	paraguay flag: Paraguay
+G	🇶🇦	0	6.0	qatar flag: Qatar
+G	🇷🇪	0	6.0	reunion flag: Réunion
+G	🇷🇴	0	6.0	romania flag: Romania
+G	🇷🇸	0	6.0	serbia flag: Serbia
+G	🇷🇺	0	6.0	russia ru flag: Russia
+G	🇷🇼	0	6.0	rwanda flag: Rwanda
+G	🇸🇦	0	6.0	saudi_arabia flag: Saudi Arabia
+G	🇸🇧	0	6.0	solomon_islands flag: Solomon Islands
+G	🇸🇨	0	6.0	seychelles flag: Seychelles
+G	🇸🇩	0	6.0	sudan flag: Sudan
+G	🇸🇪	0	6.0	sweden flag: Sweden
+G	🇸🇬	0	6.0	singapore flag: Singapore
+G	🇸🇭	0	6.0	st_helena flag: St. Helena
+G	🇸🇮	0	6.0	slovenia flag: Slovenia
+G	🇸🇯	0	11.0	svalbard_jan_mayen flag: Svalbard & Jan Mayen
+G	🇸🇰	0	6.0	slovakia flag: Slovakia
+G	🇸🇱	0	6.0	sierra_leone flag: Sierra Leone
+G	🇸🇲	0	6.0	san_marino flag: San Marino
+G	🇸🇳	0	6.0	senegal flag: Senegal
+G	🇸🇴	0	6.0	somalia flag: Somalia
+G	🇸🇷	0	6.0	suriname flag: Suriname
+G	🇸🇸	0	6.0	south_sudan flag: South Sudan
+G	🇸🇹	0	6.0	sao_tome_principe flag: São Tomé & Príncipe
+G	🇸🇻	0	6.0	el_salvador flag: El Salvador
+G	🇸🇽	0	6.0	sint_maarten flag: Sint Maarten
+G	🇸🇾	0	6.0	syria flag: Syria
+G	🇸🇿	0	6.0	swaziland flag: Eswatini
+G	🇹🇦	0	11.0	tristan_da_cunha flag: Tristan da Cunha
+G	🇹🇨	0	6.0	turks_caicos_islands flag: Turks & Caicos Islands
+G	🇹🇩	0	6.0	chad flag: Chad
+G	🇹🇫	0	6.0	french_southern_territories flag: French Southern Territories
+G	🇹🇬	0	6.0	togo flag: Togo
+G	🇹🇭	0	6.0	thailand flag: Thailand
+G	🇹🇯	0	6.0	tajikistan flag: Tajikistan
+G	🇹🇰	0	6.0	tokelau flag: Tokelau
+G	🇹🇱	0	6.0	timor_leste flag: Timor-Leste
+G	🇹🇲	0	6.0	turkmenistan flag: Turkmenistan
+G	🇹🇳	0	6.0	tunisia flag: Tunisia
+G	🇹🇴	0	6.0	tonga flag: Tonga
+G	🇹🇷	0	8.0	turkey tr flag: Turkey
+G	🇹🇹	0	6.0	trinidad_tobago flag: Trinidad & Tobago
+G	🇹🇻	0	6.0	tuvalu flag: Tuvalu
+G	🇹🇼	0	6.0	taiwan flag: Taiwan
+G	🇹🇿	0	6.0	tanzania flag: Tanzania
+G	🇺🇦	0	6.0	ukraine flag: Ukraine
+G	🇺🇬	0	6.0	uganda flag: Uganda
+G	🇺🇲	0	11.0	us_outlying_islands flag: U.S. Outlying Islands
+G	🇺🇳	0	11.0	united_nations flag: United Nations
+G	🇺🇸	0	6.0	flag united america us flag: United States
+G	🇺🇾	0	6.0	uruguay flag: Uruguay
+G	🇺🇿	0	6.0	uzbekistan flag: Uzbekistan
+G	🇻🇦	0	6.0	vatican_city flag: Vatican City
+G	🇻🇨	0	6.0	st_vincent_grenadines flag: St. Vincent & Grenadines
+G	🇻🇪	0	6.0	venezuela flag: Venezuela
+G	🇻🇬	0	6.0	british_virgin_islands flag: British Virgin Islands
+G	🇻🇮	0	6.0	us_virgin_islands flag: U.S. Virgin Islands
+G	🇻🇳	0	6.0	vietnam flag: Vietnam
+G	🇻🇺	0	6.0	vanuatu flag: Vanuatu
+G	🇼🇫	0	6.0	wallis_futuna flag: Wallis & Futuna
+G	🇼🇸	0	6.0	samoa flag: Samoa
+G	🇽🇰	0	6.0	kosovo flag: Kosovo
+G	🇾🇪	0	6.0	yemen flag: Yemen
+G	🇾🇹	0	6.0	mayotte flag: Mayotte
+G	🇿🇦	0	6.0	south_africa flag: South Africa
+G	🇿🇲	0	6.0	zambia flag: Zambia
+G	🇿🇼	0	6.0	zimbabwe flag: Zimbabwe
+G	🏴󠁧󠁢󠁥󠁮󠁧󠁿	0	11.0	england flag: England
+G	🏴󠁧󠁢󠁳󠁣󠁴󠁿	0	11.0	scotland flag: Scotland
+G	🏴󠁧󠁢󠁷󠁬󠁳󠁿	0	11.0	wales flag: Wales
