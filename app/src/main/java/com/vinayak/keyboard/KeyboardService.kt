@@ -53,6 +53,7 @@ class KeyboardService : InputMethodService(), KeyboardView.Callback, PanelHost {
     private var clipPanel: ClipboardPanel? = null
     private var emojiPanel: EmojiPanel? = null
     private var fullShown: View? = null
+    private var topContainer: View? = null
     private var overlayShown: View? = null
     private val chips = ArrayList<TextView>()
     private var uScale = 1f
@@ -214,28 +215,34 @@ class KeyboardService : InputMethodService(), KeyboardView.Callback, PanelHost {
         top.addView(sb, FrameLayout.LayoutParams(-1, -1))
         top.addView(pb, FrameLayout.LayoutParams(-1, -1))
         top.addView(sbar, FrameLayout.LayoutParams(-1, -1))
+        topContainer = top
         col.addView(top, LinearLayout.LayoutParams(mm, (136f * u).toInt()))
 
         // ---- keys + overlay panels that live under the toolbar
         val keyboard = KeyboardView(this, prefs, theme, this)
         kv = keyboard
         val kvFrame = FrameLayout(this)
-        kvFrame.addView(keyboard, FrameLayout.LayoutParams(-1, -2))
+        kvFrame.addView(keyboard, FrameLayout.LayoutParams(-1, -1))
         val mp = MorePanel(this, theme, prefs, u, availW, this).also { it.visibility = View.GONE }
         val sp = SizePanel(this, theme, prefs, u, this).also { it.visibility = View.GONE }
         val tp = ThemePanel(this, theme, prefs, u, availW, this).also { it.visibility = View.GONE }
         val ep2 = EditPanel(this, theme, u, this).also { it.visibility = View.GONE }
         morePanel = mp; sizePanel = sp; themePanel = tp; editPanel = ep2
         for (p in listOf<View>(mp, sp, tp, ep2)) kvFrame.addView(p, FrameLayout.LayoutParams(-1, -1))
-        col.addView(kvFrame, LinearLayout.LayoutParams(mm, LinearLayout.LayoutParams.WRAP_CONTENT))
+
+        // Keep the keyboard/panel viewport at the exact measured keyboard height.
+        // A WRAP_CONTENT FrameLayout with MATCH_PARENT panel children can otherwise
+        // expand to the IME window height and make emoji/clipboard feel full-screen.
+        val keyboardHeight = (Layouts.REF_H * u * prefs.int("keyscale", 100) / 100f).toInt()
+        col.addView(kvFrame, LinearLayout.LayoutParams(mm, keyboardHeight))
         main.addView(col, FrameLayout.LayoutParams(-1, -2))
 
         // ---- full-height panels (cover toolbar + keys)
         val cp = ClipboardPanel(this, theme, prefs, u, availW, this).also { it.visibility = View.GONE }
         val ep = EmojiPanel(this, theme, prefs, u, availW, this).also { it.visibility = View.GONE }
         clipPanel = cp; emojiPanel = ep
-        main.addView(cp, FrameLayout.LayoutParams(-1, -1))
-        main.addView(ep, FrameLayout.LayoutParams(-1, -1))
+        kvFrame.addView(cp, FrameLayout.LayoutParams(-1, -1))
+        kvFrame.addView(ep, FrameLayout.LayoutParams(-1, -1))
         root.addView(main, LinearLayout.LayoutParams(mm, LinearLayout.LayoutParams.WRAP_CONTENT))
 
         // ---- bottom strip (mic + hide keyboard)
@@ -260,6 +267,7 @@ class KeyboardService : InputMethodService(), KeyboardView.Callback, PanelHost {
     private fun hideAll() {
         for (v in listOf<View?>(morePanel, sizePanel, themePanel, editPanel, clipPanel, emojiPanel)) v?.visibility = View.GONE
         column?.visibility = View.VISIBLE
+        topContainer?.visibility = View.VISIBLE
         kv?.visibility = View.VISIBLE
         fullShown = null
         overlayShown = null
@@ -270,7 +278,8 @@ class KeyboardService : InputMethodService(), KeyboardView.Callback, PanelHost {
         if (searchTarget >= 0) { searchTarget = -1; searchText = "" }
         hideAll()
         p.visibility = View.VISIBLE
-        column?.visibility = View.INVISIBLE
+        topContainer?.visibility = View.GONE
+        kv?.visibility = View.GONE
         fullShown = p
     }
 
