@@ -133,9 +133,12 @@ class KeyboardService : InputMethodService(), KeyboardView.Callback, PanelHost {
         // ---- toolbar
         val tb = LinearLayout(this).apply { orientation = LinearLayout.HORIZONTAL; gravity = Gravity.CENTER_VERTICAL }
         fun tool(kind: String, action: () -> Unit) {
+            val slot = FrameLayout(this)
+            val side = (136f * u).toInt()
             val v = IconView(this, kind, theme.text, u)
             v.setOnClickListener { v.performHapticFeedback(HapticFeedbackConstants.KEYBOARD_TAP); action() }
-            tb.addView(v, LinearLayout.LayoutParams(0, mm, 1f))
+            slot.addView(v, FrameLayout.LayoutParams(side, side, Gravity.CENTER))
+            tb.addView(slot, LinearLayout.LayoutParams(0, mm, 1f))
         }
         tool("emoji") { emojiPanel?.showEmojiTab(); showFull(emojiPanel) }
         tool("clip") { clipPanel?.refresh(); showFull(clipPanel) }

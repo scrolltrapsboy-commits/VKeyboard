@@ -95,7 +95,13 @@ class KeyboardView(
         sy = sx * vScale()
         val keys = pg.keys
         rects = keys.map { k ->
-            RectF(k.l * sx, pg.tops[k.row] * sy, k.r * sx, (pg.tops[k.row] + pg.heights[k.row]) * sy)
+            val raw = RectF(k.l * sx, pg.tops[k.row] * sy, k.r * sx, (pg.tops[k.row] + pg.heights[k.row]) * sy)
+            // Keep individual keycaps square; the spacebar remains wide for normal typing.
+            if (k.type == KT.SPACE) raw else {
+                val side = minOf(raw.width(), raw.height())
+                RectF(raw.centerX() - side / 2f, raw.centerY() - side / 2f,
+                    raw.centerX() + side / 2f, raw.centerY() + side / 2f)
+            }
         }
         val rowsN = pg.tops.size
         cells = keys.mapIndexed { i, k ->

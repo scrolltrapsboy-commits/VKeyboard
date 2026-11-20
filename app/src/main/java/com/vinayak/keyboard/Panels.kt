@@ -127,7 +127,7 @@ class ClipboardPanel(
             card.setOnLongClickListener { if (!selected.remove(t)) selected.add(t); refresh(); true }
             val glp = GridLayout.LayoutParams()
             glp.width = cw
-            glp.height = (394f * u).toInt()
+            glp.height = cw
             glp.setMargins(m, m, m, m)
             grid.addView(card, glp)
         }
@@ -238,7 +238,7 @@ class EmojiPanel(
             }
             tvv.setOnClickListener { host.commitText("$e ") }
             val g = GridLayout.LayoutParams()
-            g.width = ecw; g.height = (120f * u).toInt()
+            g.width = ecw; g.height = ecw
             val mm = (8f * u).toInt(); g.setMargins(mm, mm, mm, mm)
             eg.addView(tvv, g)
         }
@@ -317,7 +317,7 @@ class EmojiPanel(
         }
         val g = GridLayout.LayoutParams()
         g.width = availW / 8
-        g.height = (112f * u).toInt()
+        g.height = g.width
         t.layoutParams = g
         t.setOnClickListener { host.commitText(ch); prefs.addRecent(ch) }
         t.setOnLongClickListener { skinPopup(t, ch) }
@@ -340,7 +340,7 @@ class EmojiPanel(
                 setTextSize(TypedValue.COMPLEX_UNIT_PX, 56f * u)
             }
             t.setOnClickListener { host.commitText(v); prefs.addRecent(v); pw.dismiss() }
-            row.addView(t, lp((104f * u).toInt(), (112f * u).toInt()))
+            row.addView(t, lp((104f * u).toInt(), (104f * u).toInt()))
         }
         pw.showAsDropDown(anchor, 0, -(anchor.height + (130f * u).toInt()))
         return true
@@ -433,7 +433,7 @@ class MorePanel(
             val cell = LinearLayout(ctx).apply { orientation = LinearLayout.VERTICAL; gravity = Gravity.CENTER_HORIZONTAL }
             val ic = IconView(ctx, it.icon, theme.text, u)
             icons[it.id] = ic
-            cell.addView(ic, lp(cellW, (110f * u).toInt()))
+            cell.addView(ic, lp((110f * u).toInt(), (110f * u).toInt()))
             val label = mkText(ctx, it.label, 38f * u, theme.text).apply {
                 gravity = Gravity.CENTER; maxLines = 2
                 setPadding((10f * u).toInt(), (10f * u).toInt(), (10f * u).toInt(), 0)
