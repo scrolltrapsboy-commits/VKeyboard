@@ -40,8 +40,6 @@ jobs:
           test -d "$ANDROID_HOME/build-tools/34.0.0"
 
       - name: Build debug APK
-        env:
-          GIPHY_API_KEY: ${{ secrets.GIPHY_API_KEY }}
         run: gradle --no-daemon --stacktrace assembleDebug
 
       - name: Upload APK
