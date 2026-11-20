@@ -97,7 +97,7 @@ class ClipboardPanel(
         val frame = FrameLayout(ctx)
         val sv = ScrollView(ctx).apply { isFillViewport = true; clipToPadding = false }
         grid.setPadding((22f * u).toInt(), (8f * u).toInt(), (22f * u).toInt(), (28f * u).toInt())
-        sv.addView(grid, ScrollView.LayoutParams(-1, -2))
+        sv.addView(grid, FrameLayout.LayoutParams(-1, -2))
         frame.addView(sv, FrameLayout.LayoutParams(-1, -1))
         frame.addView(empty, FrameLayout.LayoutParams(-1, -1))
         addView(frame, lp(ViewGroup.LayoutParams.MATCH_PARENT, 0, 1f))
