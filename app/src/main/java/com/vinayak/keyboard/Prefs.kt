@@ -7,6 +7,8 @@ import android.graphics.BitmapFactory
 import android.graphics.Canvas
 import android.graphics.ColorFilter
 import android.graphics.Paint
+import android.graphics.LinearGradient
+import android.graphics.Shader
 import android.graphics.PixelFormat
 import android.graphics.Rect
 import android.graphics.Typeface
@@ -148,7 +150,23 @@ class ThemeBgDrawable(private val t: Theme) : Drawable() {
     override fun draw(c: Canvas) {
         val b = bounds
         val bmp = t.bgImage
-        if (bmp == null || b.width() == 0 || b.height() == 0) { c.drawColor(t.bg); return }
+        if (bmp == null || b.width() == 0 || b.height() == 0) {
+            when (t.bg) {
+                0xFFF5EFFF.toInt() -> {
+                    p.shader = LinearGradient(0f, 0f, b.width().toFloat(), b.height().toFloat(),
+                        intArrayOf(0xFFF5EFFF.toInt(), 0xFFE8F4FF.toInt(), 0xFFFFEAF4.toInt()),
+                        null, Shader.TileMode.CLAMP)
+                    c.drawRect(b, p); p.shader = null
+                }
+                0xFF18202D.toInt() -> {
+                    p.shader = LinearGradient(0f, 0f, b.width().toFloat(), b.height().toFloat(),
+                        0xFF26364B.toInt(), 0xFF111923.toInt(), Shader.TileMode.CLAMP)
+                    c.drawRect(b, p); p.shader = null
+                }
+                else -> c.drawColor(t.bg)
+            }
+            return
+        }
         val scale = maxOf(b.width() / bmp.width.toFloat(), b.height() / bmp.height.toFloat())
         val sw = b.width() / scale
         val sh = b.height() / scale
