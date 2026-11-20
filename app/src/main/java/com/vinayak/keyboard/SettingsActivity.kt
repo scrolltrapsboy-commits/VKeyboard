@@ -214,11 +214,11 @@ class SettingsActivity : Activity() {
         // ---- GIFs
         section("GIFs and stickers")
         col.addView(TextView(this).apply {
-            text = "GIF and sticker search uses Giphy. You can add GIPHY_API_KEY to the project .env file before building, or enter a key below. A key entered here overrides the build-time key."
+            text = "GIF and sticker search uses Giphy. Get a free API key at developers.giphy.com (Create an App, choose API), then paste it here."
             textSize = 13f
         })
         col.addView(EditText(this).apply {
-            hint = "Optional Giphy API key override"
+            hint = "Giphy API key"
             setText(prefs.str("giphy", ""))
             isSingleLine = true
             addTextChangedListener(object : TextWatcher {
